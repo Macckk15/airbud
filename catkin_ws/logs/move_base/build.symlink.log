@@ -1,0 +1,12 @@
+Symlinking /home/airbud/catkin_ws/devel/include/move_base/MoveBaseConfig.h
+Symlinking /home/airbud/catkin_ws/devel/lib/libmove_base.so
+Symlinking /home/airbud/catkin_ws/devel/lib/move_base/move_base
+Symlinking /home/airbud/catkin_ws/devel/lib/python2.7/dist-packages/move_base/__init__.py
+Symlinking /home/airbud/catkin_ws/devel/lib/python2.7/dist-packages/move_base/cfg/__init__.py
+Symlinking /home/airbud/catkin_ws/devel/lib/python2.7/dist-packages/move_base/cfg/MoveBaseConfig.py
+Symlinking /home/airbud/catkin_ws/devel/lib/pkgconfig/move_base.pc
+Symlinking /home/airbud/catkin_ws/devel/share/move_base/docs/MoveBaseConfig-usage.dox
+Symlinking /home/airbud/catkin_ws/devel/share/move_base/docs/MoveBaseConfig.wikidoc
+Symlinking /home/airbud/catkin_ws/devel/share/move_base/docs/MoveBaseConfig.dox
+Symlinking /home/airbud/catkin_ws/devel/share/move_base/cmake/move_baseConfig-version.cmake
+Symlinking /home/airbud/catkin_ws/devel/share/move_base/cmake/move_baseConfig.cmake

@@ -1,0 +1,1 @@
+/home/airbud/catkin_ws/devel/.private/diffbot_msgs/share/roseus/ros/diffbot_msgs/msg/AngularVelocitiesStamped.l

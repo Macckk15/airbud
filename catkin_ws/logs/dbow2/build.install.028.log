@@ -1,0 +1,20 @@
+[ 77%] Built target DBoW2
+[100%] Built target demo
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Installing: /home/airbud/catkin_ws/devel/lib/libDBoW2.so
+-- Set runtime path of "/home/airbud/catkin_ws/devel/lib/libDBoW2.so" to ""
+-- Installing: /home/airbud/catkin_ws/devel/include/DBoW2
+-- Installing: /home/airbud/catkin_ws/devel/include/DBoW2/FClass.h
+-- Installing: /home/airbud/catkin_ws/devel/include/DBoW2/TemplatedVocabulary.h
+-- Installing: /home/airbud/catkin_ws/devel/include/DBoW2/TemplatedDatabase.h
+-- Installing: /home/airbud/catkin_ws/devel/include/DBoW2/QueryResults.h
+-- Installing: /home/airbud/catkin_ws/devel/include/DBoW2/FORB.h
+-- Installing: /home/airbud/catkin_ws/devel/include/DBoW2/ScoringObject.h
+-- Installing: /home/airbud/catkin_ws/devel/include/DBoW2/DBoW2.h
+-- Installing: /home/airbud/catkin_ws/devel/include/DBoW2/FSurf64.h
+-- Installing: /home/airbud/catkin_ws/devel/include/DBoW2/FeatureVector.h
+-- Installing: /home/airbud/catkin_ws/devel/include/DBoW2/FBrief.h
+-- Installing: /home/airbud/catkin_ws/devel/include/DBoW2/BowVector.h
+-- Installing: /home/airbud/catkin_ws/devel/include/DBoW2/DBoW2Config.cmake
+-- Installing: /home/airbud/catkin_ws/devel/lib/cmake/DBoW2/DBoW2Config.cmake

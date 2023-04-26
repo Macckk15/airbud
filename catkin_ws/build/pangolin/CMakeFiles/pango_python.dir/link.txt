@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libpango_python.so -o libpango_python.so CMakeFiles/pango_python.dir/components/pango_core/src/dummy.cpp.o 

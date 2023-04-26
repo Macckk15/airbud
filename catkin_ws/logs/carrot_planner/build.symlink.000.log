@@ -1,0 +1,4 @@
+Symlinking /home/airbud/catkin_ws/devel/lib/libcarrot_planner.so
+Symlinking /home/airbud/catkin_ws/devel/lib/pkgconfig/carrot_planner.pc
+Symlinking /home/airbud/catkin_ws/devel/share/carrot_planner/cmake/carrot_plannerConfig.cmake
+Symlinking /home/airbud/catkin_ws/devel/share/carrot_planner/cmake/carrot_plannerConfig-version.cmake

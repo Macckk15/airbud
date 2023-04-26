@@ -1,0 +1,85 @@
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _tello_driver_generate_messages_check_deps_MoveUp[0m
+[  0%] Built target _tello_driver_generate_messages_check_deps_MoveUp
+[35m[1mScanning dependencies of target _tello_driver_generate_messages_check_deps_MoveDown[0m
+[  0%] Built target _tello_driver_generate_messages_check_deps_MoveDown
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_cpp[0m
+[  0%] Built target nav_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _tello_driver_generate_messages_check_deps_TelloStatus[0m
+[  0%] Built target _tello_driver_generate_messages_check_deps_TelloStatus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_py[0m
+[  0%] Built target nav_msgs_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[  0%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[  0%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_nodejs[0m
+[  0%] Built target nav_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_lisp[0m
+[  0%] Built target nav_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  0%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target nav_msgs_generate_messages_eus[0m
+[  0%] Built target nav_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tello_driver_gencfg[0m
+[  5%] [34m[1mGenerating dynamic reconfigure files from cfg/Tello.cfg: /home/airbud/catkin_ws/devel/.private/tello_driver/include/tello_driver/TelloConfig.h /home/airbud/catkin_ws/devel/.private/tello_driver/lib/python2.7/dist-packages/tello_driver/cfg/TelloConfig.py[0m
+Generating reconfiguration files for Tello in tello_driver
+Wrote header file in /home/airbud/catkin_ws/devel/.private/tello_driver/include/tello_driver/TelloConfig.h
+[  5%] Built target tello_driver_gencfg
+[35m[1mScanning dependencies of target tello_driver_generate_messages_cpp[0m
+[ 10%] [34m[1mGenerating C++ code from tello_driver/TelloStatus.msg[0m
+[ 15%] [34m[1mGenerating C++ code from tello_driver/MoveDown.srv[0m
+[ 21%] [34m[1mGenerating C++ code from tello_driver/MoveUp.srv[0m
+[ 21%] Built target tello_driver_generate_messages_cpp
+[35m[1mScanning dependencies of target tello_driver_generate_messages_py[0m
+[ 26%] [34m[1mGenerating Python from MSG tello_driver/TelloStatus[0m
+[ 31%] [34m[1mGenerating Python code from SRV tello_driver/MoveDown[0m
+[ 36%] [34m[1mGenerating Python code from SRV tello_driver/MoveUp[0m
+[ 42%] [34m[1mGenerating Python msg __init__.py for tello_driver[0m
+[ 47%] [34m[1mGenerating Python srv __init__.py for tello_driver[0m
+[ 47%] Built target tello_driver_generate_messages_py
+[35m[1mScanning dependencies of target tello_driver_generate_messages_nodejs[0m
+[ 52%] [34m[1mGenerating Javascript code from tello_driver/TelloStatus.msg[0m
+[ 57%] [34m[1mGenerating Javascript code from tello_driver/MoveDown.srv[0m
+[ 63%] [34m[1mGenerating Javascript code from tello_driver/MoveUp.srv[0m
+[ 63%] Built target tello_driver_generate_messages_nodejs
+[35m[1mScanning dependencies of target tello_driver_generate_messages_lisp[0m
+[ 68%] [34m[1mGenerating Lisp code from tello_driver/TelloStatus.msg[0m
+[ 73%] [34m[1mGenerating Lisp code from tello_driver/MoveDown.srv[0m
+[ 78%] [34m[1mGenerating Lisp code from tello_driver/MoveUp.srv[0m
+[ 78%] Built target tello_driver_generate_messages_lisp
+[35m[1mScanning dependencies of target tello_driver_generate_messages_eus[0m
+[ 84%] [34m[1mGenerating EusLisp code from tello_driver/TelloStatus.msg[0m
+[ 89%] [34m[1mGenerating EusLisp code from tello_driver/MoveDown.srv[0m
+[ 94%] [34m[1mGenerating EusLisp code from tello_driver/MoveUp.srv[0m
+[100%] [34m[1mGenerating EusLisp manifest code for tello_driver[0m
+WARNING: Package name "Camera_Data" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "seniorDesign" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "Camera_Data" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "seniorDesign" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[100%] Built target tello_driver_generate_messages_eus
+[35m[1mScanning dependencies of target tello_driver_generate_messages[0m
+[100%] Built target tello_driver_generate_messages

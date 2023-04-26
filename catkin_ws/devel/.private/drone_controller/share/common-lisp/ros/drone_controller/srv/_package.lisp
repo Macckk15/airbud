@@ -1,0 +1,15 @@
+(cl:defpackage drone_controller-srv
+  (:use )
+  (:export
+   "MOVEDRONEW"
+   "<MOVEDRONEW-REQUEST>"
+   "MOVEDRONEW-REQUEST"
+   "<MOVEDRONEW-RESPONSE>"
+   "MOVEDRONEW-RESPONSE"
+   "SETREFPOSE"
+   "<SETREFPOSE-REQUEST>"
+   "SETREFPOSE-REQUEST"
+   "<SETREFPOSE-RESPONSE>"
+   "SETREFPOSE-RESPONSE"
+  ))
+

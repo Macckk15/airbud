@@ -1,0 +1,44 @@
+Not searching for unused variables given on the command line.
+[36m--[0m Root directory of OpenVSLAM: /home/airbud/catkin_ws/src/openvslam
+[36m--[0m Source directory of OpenVSLAM: /home/airbud/catkin_ws/src/openvslam/src
+[36m--[0m Library directory of OpenVSLAM: /home/airbud/catkin_ws/src/openvslam/build/lib
+[36m--[0m Build type: Release
+[36m--[0m Address/Memory sanitizer: DISABLED
+[36m--[0m Stack trace logger: DISABLED
+[36m--[0m Google Perftools: DISABLED
+[36m--[0m Architecture-aware optimization (-march=native): DISABLED
+[36m--[0m C++11 support: OK (-std=c++17)
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/airbud/catkin_ws/devel/.private/openvslam
+[36m--[0m Using CMAKE_PREFIX_PATH: /home/airbud/catkin_ws/devel;/opt/ros/melodic
+[36m--[0m This workspace overlays: /home/airbud/catkin_ws/devel;/opt/ros/melodic
+[36m--[0m Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.17", minimum required is "2")
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python2
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/bin/empy
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/airbud/catkin_ws/build/openvslam/test_results
+[36m--[0m Found gtest sources under '/usr/src/googletest': gtests will be built
+[36m--[0m Found gmock sources under '/usr/src/googletest': gmock will be built
+[36m--[0m Found PythonInterp: /usr/bin/python2 (found version "2.7.17")
+[36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
+[36m--[0m catkin 0.7.29
+[36m--[0m BUILD_SHARED_LIBS is on
+[36m--[0m Use OpenCV 4.5.3
+[36m--[0m BoW framework: DBoW2 (found in /home/airbud/catkin_ws/devel/include/DBoW2;/home/airbud/catkin_ws/devel/include/DBoW2/../)
+[36m--[0m Viewer for examples: pangolin viewer
+CMake Error: The following variables are used in this project, but they are set to NOTFOUND.
+Please set them or make sure they are set and tested correctly in the CMake files:
+OpenVSLAM_LIB
+    linked by target "path_publisher" in directory /home/airbud/catkin_ws/src/openvslam/ros/src/openvslam/src
+    linked by target "run_slam" in directory /home/airbud/catkin_ws/src/openvslam/ros/src/openvslam/src
+    linked by target "run_localization" in directory /home/airbud/catkin_ws/src/openvslam/ros/src/openvslam/src
+Pangolin_Viewer_LIB
+    linked by target "run_slam" in directory /home/airbud/catkin_ws/src/openvslam/ros/src/openvslam/src
+    linked by target "run_slam" in directory /home/airbud/catkin_ws/src/openvslam/ros/src/openvslam/src
+    linked by target "run_localization" in directory /home/airbud/catkin_ws/src/openvslam/ros/src/openvslam/src
+    linked by target "run_localization" in directory /home/airbud/catkin_ws/src/openvslam/ros/src/openvslam/src
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/airbud/catkin_ws/build/openvslam/CMakeFiles/CMakeOutput.log".
+See also "/home/airbud/catkin_ws/build/openvslam/CMakeFiles/CMakeError.log".

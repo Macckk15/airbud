@@ -1,0 +1,8 @@
+prefix=/home/airbud/catkin_ws/devel/.private/rviz_imu_plugin
+
+Name: rviz_imu_plugin
+Description: Description of rviz_imu_plugin
+Version: 1.2.5
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rviz

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libpango_vars.so -o libpango_vars.so CMakeFiles/pango_vars.dir/components/pango_vars/src/vars.cpp.o CMakeFiles/pango_vars.dir/components/pango_vars/src/varstate.cpp.o -Wl,-rpath,/home/airbud/catkin_ws/build/pangolin: libpango_core.so -lrt -lpthread 

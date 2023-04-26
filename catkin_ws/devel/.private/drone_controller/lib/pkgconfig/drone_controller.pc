@@ -1,0 +1,8 @@
+prefix=/home/airbud/catkin_ws/devel/.private/drone_controller
+
+Name: drone_controller
+Description: Description of drone_controller
+Version: 0.0.0
+Cflags: -I/home/airbud/catkin_ws/devel/.private/drone_controller/include
+Libs: -L${prefix}/lib 
+Requires: 

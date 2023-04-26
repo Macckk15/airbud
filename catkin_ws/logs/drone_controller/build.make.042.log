@@ -1,0 +1,17 @@
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _drone_controller_generate_messages_check_deps_MoveDroneW
+[  0%] Built target _drone_controller_generate_messages_check_deps_SetRefPose
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[ 10%] Built target drone_controller_generate_messages_cpp
+[ 20%] Built target drone_controller_generate_messages_lisp
+[ 30%] Built target drone_controller_generate_messages_nodejs
+[ 45%] Built target drone_controller_generate_messages_py
+[ 60%] Built target drone_controller_generate_messages_eus
+[ 70%] Built target altitude_controller_interface
+[ 80%] Built target path_visualization
+[ 90%] Built target controller_interface
+[100%] Built target position_controller_interface
+[100%] Built target drone_controller_generate_messages

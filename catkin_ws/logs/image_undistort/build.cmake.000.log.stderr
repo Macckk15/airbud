@@ -1,0 +1,4 @@
+[33m[1mCMake Warning[0m at /home/airbud/catkin_ws/src/image_undistort/CMakeLists.txt:63 (MESSAGE):
+  nlopt not found, building without point to bearing nodelet
+
+

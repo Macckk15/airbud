@@ -1,0 +1,3 @@
+Symlinking /home/airbud/catkin_ws/devel/lib/pkgconfig/diffbot_mbf.pc
+Symlinking /home/airbud/catkin_ws/devel/share/diffbot_mbf/cmake/diffbot_mbfConfig.cmake
+Symlinking /home/airbud/catkin_ws/devel/share/diffbot_mbf/cmake/diffbot_mbfConfig-version.cmake

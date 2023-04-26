@@ -1,0 +1,17 @@
+[31m[1mCMake Error[0m at /home/airbud/catkin_ws/src/openvslam/ros/src/openvslam/CMakeLists.txt:202 (find_package):
+  By not providing "FindDBoW2.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "DBoW2", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "DBoW2" with any of
+  the following names:
+
+    DBoW2Config.cmake
+    dbow2-config.cmake
+
+  Add the installation prefix of "DBoW2" to CMAKE_PREFIX_PATH or set
+  "DBoW2_DIR" to a directory containing one of the above files.  If "DBoW2"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+

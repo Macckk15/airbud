@@ -1,0 +1,27 @@
+controller_frequency: 15.0
+
+
+DWAPlannerROS:
+  max_vel_x: 0.5
+  min_vel_x: 0.4
+  max_vel_y: 0.0
+  min_vel_y: 0.0
+  min_vel_trans: 0.3
+  max_vel_trans: 0.55
+  max_vel_theta: 0.0
+  min_vel_theta: 0.0
+  min_in_place_vel_theta: 0.1
+
+  #acc_lim_theta: 0.3
+  #acc_lim_x: 0.3
+  #acc_lim_Y: 0.3
+
+  holonomic_robot: false
+
+  meter_scoring: true
+
+  xy_goal_tolerance: 0.2
+  latch_xy_goal_tolerance: false
+  yaw_goal_tolerance: 0.3
+  path_distance_bias: 100000
+  goal_distance_bias: 10

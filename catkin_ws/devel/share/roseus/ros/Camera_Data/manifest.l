@@ -1,0 +1,1 @@
+/home/airbud/catkin_ws/devel/.private/Camera_Data/share/roseus/ros/Camera_Data/manifest.l

@@ -1,0 +1,17 @@
+In file included from [01m[K/home/airbud/catkin_ws/src/image_undistort/include/image_undistort/image_undistort.h:18:0[m[K,
+                 from [01m[K/home/airbud/catkin_ws/src/image_undistort/src/nodelets/image_undistort_nodelet.cpp:4[m[K:
+[01m[K/home/airbud/catkin_ws/src/image_undistort/include/image_undistort/undistorter.h:6:10:[m[K [01;31m[Kfatal error: [m[Kcv.h: No such file or directory
+ #include [01;31m[K<cv.h>[m[K
+          [01;31m[K^~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/image_undistort_nodelet.dir/src/nodelets/image_undistort_nodelet.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+In file included from [01m[K/home/airbud/catkin_ws/src/image_undistort/include/image_undistort/stereo_undistort.h:20:0[m[K,
+                 from [01m[K/home/airbud/catkin_ws/src/image_undistort/src/nodelets/stereo_undistort_nodelet.cpp:4[m[K:
+[01m[K/home/airbud/catkin_ws/src/image_undistort/include/image_undistort/undistorter.h:6:10:[m[K [01;31m[Kfatal error: [m[Kcv.h: No such file or directory
+ #include [01;31m[K<cv.h>[m[K
+          [01;31m[K^~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/image_undistort_nodelet.dir/src/nodelets/stereo_undistort_nodelet.cpp.o] Error 1
+make[1]: *** [CMakeFiles/image_undistort_nodelet.dir/all] Error 2
+make: *** [all] Error 2

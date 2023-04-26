@@ -1,0 +1,4 @@
+[ 16%] Built target diffbot_base_gencfg
+[ 16%] Built target diffbot_msgs_generate_messages_cpp
+[ 66%] Built target diffbot_hw_interface
+[100%] Built target diffbot_base

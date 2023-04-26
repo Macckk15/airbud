@@ -1,0 +1,1 @@
+/home/airbud/catkin_ws/devel/.private/costmap_2d/share/gennodejs/ros/costmap_2d/_index.js

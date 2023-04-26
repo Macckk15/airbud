@@ -1,0 +1,12 @@
+Symlinking /home/airbud/catkin_ws/devel/include/global_planner/GlobalPlannerConfig.h
+Symlinking /home/airbud/catkin_ws/devel/lib/libglobal_planner.so
+Symlinking /home/airbud/catkin_ws/devel/lib/python2.7/dist-packages/global_planner/__init__.py
+Symlinking /home/airbud/catkin_ws/devel/lib/python2.7/dist-packages/global_planner/cfg/__init__.py
+Symlinking /home/airbud/catkin_ws/devel/lib/python2.7/dist-packages/global_planner/cfg/GlobalPlannerConfig.py
+Symlinking /home/airbud/catkin_ws/devel/lib/global_planner/planner
+Symlinking /home/airbud/catkin_ws/devel/lib/pkgconfig/global_planner.pc
+Symlinking /home/airbud/catkin_ws/devel/share/global_planner/docs/GlobalPlannerConfig.dox
+Symlinking /home/airbud/catkin_ws/devel/share/global_planner/docs/GlobalPlannerConfig-usage.dox
+Symlinking /home/airbud/catkin_ws/devel/share/global_planner/docs/GlobalPlannerConfig.wikidoc
+Symlinking /home/airbud/catkin_ws/devel/share/global_planner/cmake/global_plannerConfig.cmake
+Symlinking /home/airbud/catkin_ws/devel/share/global_planner/cmake/global_plannerConfig-version.cmake

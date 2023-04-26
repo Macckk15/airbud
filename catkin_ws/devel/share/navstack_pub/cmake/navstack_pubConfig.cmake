@@ -1,0 +1,1 @@
+/home/airbud/catkin_ws/devel/.private/navstack_pub/share/navstack_pub/cmake/navstack_pubConfig.cmake

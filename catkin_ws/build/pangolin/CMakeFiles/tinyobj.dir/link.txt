@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libtinyobj.so -o libtinyobj.so CMakeFiles/tinyobj.dir/components/tinyobj/src/tinyobj.cpp.o 

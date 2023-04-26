@@ -1,0 +1,17 @@
+[31m[1mCMake Error[0m at /home/airbud/catkin_ws/src/openvslam/ros/src/openvslam/CMakeLists.txt:170 (find_package):
+  By not providing "FindPangolin.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "Pangolin",
+  but CMake did not find one.
+
+  Could not find a package configuration file provided by "Pangolin" with any
+  of the following names:
+
+    PangolinConfig.cmake
+    pangolin-config.cmake
+
+  Add the installation prefix of "Pangolin" to CMAKE_PREFIX_PATH or set
+  "Pangolin_DIR" to a directory containing one of the above files.  If
+  "Pangolin" provides a separate development package or SDK, be sure it has
+  been installed.
+
+

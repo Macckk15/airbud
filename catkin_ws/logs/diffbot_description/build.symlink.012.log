@@ -1,0 +1,3 @@
+Symlinking /home/airbud/catkin_ws/devel/lib/pkgconfig/diffbot_description.pc
+Symlinking /home/airbud/catkin_ws/devel/share/diffbot_description/cmake/diffbot_descriptionConfig.cmake
+Symlinking /home/airbud/catkin_ws/devel/share/diffbot_description/cmake/diffbot_descriptionConfig-version.cmake

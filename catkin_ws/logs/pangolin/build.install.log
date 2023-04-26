@@ -1,0 +1,322 @@
+[  8%] Built target pango_core
+[ 17%] Built target pango_image
+[ 24%] Built target pango_opengl
+[ 27%] Built target pango_packetstream
+[ 28%] Built target tinyobj
+[ 31%] Built target pango_geometry
+[ 32%] Built target pango_glgeometry
+[ 38%] Built target pango_windowing
+[ 40%] Built target pango_vars
+[ 47%] Built target pango_display
+[ 50%] Built target pango_plot
+[ 51%] Built target pango_python
+[ 52%] Built target pango_scene
+[ 72%] Built target pango_video
+[ 73%] Built target pango_tools
+[ 75%] Built target tutorial_5_gl_intro_view_transforms
+[ 76%] Built target tutorial_4_gl_intro_viewport
+[ 77%] Built target tutorial_1_gl_intro_pango_triangle
+[ 78%] Built target tutorial_1_gl_intro_classic_triangle
+[ 80%] Built target tutorial_2_gl_intro_classic_triangle_vbo
+[ 81%] Built target tutorial_2_gl_intro_pango_triangle_vbo
+[ 82%] Built target tutorial_3_gl_intro_pango_triangle_vbo_shader
+[ 83%] Built target tutorial_3_gl_intro_classic_triangle_vbo_shader
+[ 84%] Built target HelloPangolin
+[ 85%] Built target SimpleDisplay
+[ 86%] Built target SimpleMultiDisplay
+[ 88%] Built target SimpleDisplayImage
+[ 89%] Built target SimplePlot
+[ 91%] Built target SimpleVideo
+[ 92%] Built target SimpleRecord
+[ 93%] Built target HelloPangolinOffscreen
+[ 94%] Built target SimpleScene
+[ 95%] Built target VideoViewer
+[ 96%] Built target VideoConvert
+[ 97%] Built target VideoJsonPrint
+[ 98%] Built target VideoJsonTransform
+[ 99%] Built target Plotter
+[100%] Built target ModelViewer
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/airbud/catkin_ws/devel/include
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/platform.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/compat
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/compat/type_traits.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/compat/glutbitmap.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/uri.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/picojson.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/memstreambuf.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/compontent_cast.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/type_convert.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/sigstate.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/log.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/argagg.hpp
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/variadic_all.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/transform.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/format_string.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/timer.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/file_extension.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/signal_slot.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/params.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/simple_math.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/param_set.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/xml
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/xml/rapidxml_utils.hpp
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/xml/rapidxml_iterators.hpp
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/xml/rapidxml_print.hpp
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/xml/license.txt
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/xml/rapidxml.hpp
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/bitmask.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/file_utils.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/true_false_toggle.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/range.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/posix
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/posix/shared_memory_buffer.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/posix/semaphore.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/posix/condition_variable.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/parse.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/assert.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/threadedfilebuf.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/is_streamable.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/avx_math.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/utils/fix_size_buffer_queue.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/factory
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/factory/factory_registry.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/factory/factory.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/factory/factory_help.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/pangolin.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/sigslot
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/sigslot/README.md
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/sigslot/signal.hpp
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/sigslot/LICENCE
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/NaturalSort
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/NaturalSort/README.md
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/NaturalSort/LICENSE.md
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/NaturalSort/natural_sort.hpp
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/dynalo
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/dynalo/dynalo.hpp
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/dynalo/symbol_helper.hpp
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/dynalo/detail
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/dynalo/detail/macos
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/dynalo/detail/macos/dynalo.hpp
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/dynalo/detail/linux
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/dynalo/detail/linux/dynalo.hpp
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/dynalo/detail/windows
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/dynalo/detail/windows/dynalo.hpp
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/dynalo/detail/config.hpp
+-- Up-to-date: /home/airbud/catkin_ws/devel/include
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/console
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/console/InterpreterInterface.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/console/ConsoleView.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/handler
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/handler/handler_glbuffer.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/handler/handler.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/handler/handler_image.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/display
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/display/user_app.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/display/attach.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/display/widgets.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/display/process.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/display/image_view.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/display/display.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/display/default_font.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/display/display.hpp
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/display/view.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/geometry
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/geometry/geometry_ply.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/geometry/geometry.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/geometry/geometry_obj.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/geometry
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/geometry/glgeometry.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/image
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/image/typed_image.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/image/image.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/image/shared_image.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/image/memcpy.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/image/image_utils.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/image/image_io.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/image/pixel_format.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/image/copy.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/image/image_convert.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/image/managed_image.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/gl.hpp
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/glpangoglu.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/gltext.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/opengl_render_state.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/gl.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/glinclude.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/gltexturecache.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/glcuda.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/cg.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/glsl.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/compat
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/compat/gl2engine.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/compat/gl_es_compat.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/glstate.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/glpixformat.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/glplatform.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/glformattraits.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/gldraw.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/glvbo.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/glchar.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/colour.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/viewport.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/gl/glfont.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/log
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/log/packetstream.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/log/packetstream_tags.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/log/packetstream_source.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/log/packet.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/log/packetstream_writer.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/log/packetstream_reader.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/log/playback_session.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/log/sync_time.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/plot
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/plot/plotter.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/plot/datalog.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/plot/loaders
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/plot/loaders/csv_table_loader.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/plot/loaders/table_loader.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/scene
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/scene/interactive.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/scene/scenehandler.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/scene/renderable.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/scene/interactive_index.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/scene/tree.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/scene/axis.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/tools
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/tools/video_viewer.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/var
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/var/varvalue.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/var/varwrapper.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/var/var.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/var/varvaluet.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/var/varinit.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/var/varstate.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/var/varvaluegeneric.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/var/varextra.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/iostream_operators.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/video.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/stream_encoder_factory.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/video_input.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/video_interface.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/video_record_repeat.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/pango_video_output.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/uvc_mediafoundation.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/thread.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/ffmpeg.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/images.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/v4l.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/merge.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/images_out.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/realsense.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/openni2.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/transform.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/truncate.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/join.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/pango.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/deinterlace.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/shared_memory.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/ffmpeg_convert.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/ffmpeg_output.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/pleora.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/teli.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/mjpeg.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/unpack.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/test.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/gamma.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/pack.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/ffmpeg_common.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/uvc.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/shift.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/debayer.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/firewire.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/openni_common.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/split.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/depthsense.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/openni.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/drivers/realsense2.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/stream_info.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/video_output.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/video_help.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/video_output_interface.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/video/video_exception.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/factory
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/factory/RegisterFactoriesVideoInterface.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/factory/RegisterFactoriesWindowInterface.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/factory/RegisterFactoriesVideoOutputInterface.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/windowing
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/windowing/display_android.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/windowing/X11GlContext.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/windowing/EmscriptenWindow.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/windowing/WinWindow.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/windowing/X11Window.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/windowing/PangolinNSGLView.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/windowing/handler_enums.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/windowing/PangolinNSApplication.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/windowing/handler_bitsets.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/windowing/OsxWindow.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/windowing/window.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/factory
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/factory/RegisterFactoriesVideoInterface.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/factory/RegisterFactoriesWindowInterface.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/pangolin/factory/RegisterFactoriesVideoOutputInterface.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/tinyobj
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/tinyobj/tiny_obj_loader.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/libpango_core.so
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/libpango_display.so
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/libpango_geometry.so
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/libpango_glgeometry.so
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/libpango_image.so
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/libpango_opengl.so
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/libpango_packetstream.so
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/libpango_plot.so
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/libpango_python.so
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/libpango_scene.so
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/libpango_tools.so
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/libpango_vars.so
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/libpango_video.so
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/libpango_windowing.so
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/libtinyobj.so
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/cmake/Pangolin/PangolinConfig.cmake
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/cmake/Pangolin/PangolinConfigVersion.cmake
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/cmake/Pangolin/PangolinTargets.cmake
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/cmake/Pangolin/PangolinTargets-release.cmake
+-- Up-to-date: /home/airbud/catkin_ws/devel/bin/VideoViewer
+-- Up-to-date: /home/airbud/catkin_ws/devel/bin/VideoConvert
+-- Up-to-date: /home/airbud/catkin_ws/devel/bin/VideoJsonPrint
+-- Up-to-date: /home/airbud/catkin_ws/devel/bin/VideoJsonTransform
+-- Up-to-date: /home/airbud/catkin_ws/devel/bin/Plotter

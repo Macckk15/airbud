@@ -1,0 +1,59 @@
+[01m[K/home/airbud/catkin_ws/src/navigation/dwa_local_planner/src/dwa_planner_ros.cpp:[m[K In member function ‘[01m[Kvoid dwa_local_planner::DWAPlannerROS::reconfigureCB(dwa_local_planner::DWAPlannerConfig&, uint32_t)[m[K’:
+[01m[K/home/airbud/catkin_ws/src/navigation/dwa_local_planner/src/dwa_planner_ros.cpp:75:3:[m[K [01;31m[Kerror: [m[K‘[01m[Kdesired_speed_[m[K’ was not declared in this scope
+   [01;31m[Kdesired_speed_[m[K = nav_core::getPrivateParameter<double>(nh_, "desired_speed", 1.0);  }
+   [01;31m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/airbud/catkin_ws/src/navigation/dwa_local_planner/src/dwa_planner_ros.cpp:75:30:[m[K [01;31m[Kerror: [m[K‘[01m[KgetPrivateParameter[m[K’ is not a member of ‘[01m[Knav_core[m[K’
+   desired_speed_ = nav_core::[01;31m[KgetPrivateParameter[m[K<double>(nh_, "desired_speed", 1.0);  }
+                              [01;31m[K^~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/airbud/catkin_ws/src/navigation/dwa_local_planner/src/dwa_planner_ros.cpp:75:30:[m[K [01;36m[Knote: [m[Ksuggested alternative: ‘[01m[KwarnRenamedParameter[m[K’
+   desired_speed_ = nav_core::[01;36m[KgetPrivateParameter[m[K<double>(nh_, "desired_speed", 1.0);  }
+                              [01;36m[K^~~~~~~~~~~~~~~~~~~[m[K
+                              [32m[KwarnRenamedParameter[m[K
+[01m[K/home/airbud/catkin_ws/src/navigation/dwa_local_planner/src/dwa_planner_ros.cpp:75:50:[m[K [01;31m[Kerror: [m[Kexpected primary-expression before ‘[01m[Kdouble[m[K’
+   desired_speed_ = nav_core::getPrivateParameter<[01;31m[Kdouble[m[K>(nh_, "desired_speed", 1.0);  }
+                                                  [01;31m[K^~~~~~[m[K
+[01m[K/home/airbud/catkin_ws/src/navigation/dwa_local_planner/src/dwa_planner_ros.cpp:[m[K In member function ‘[01m[Kvirtual bool dwa_local_planner::DWAPlannerROS::computeVelocityCommands(geometry_msgs::Twist&)[m[K’:
+[01m[K/home/airbud/catkin_ws/src/navigation/dwa_local_planner/src/dwa_planner_ros.cpp:271:3:[m[K [01;31m[Kerror: [m[K‘[01m[Ktf[m[K’ has not been declared
+   [01;31m[Ktf[m[K::StampedTransform transform;
+   [01;31m[K^~[m[K
+[01m[K/home/airbud/catkin_ws/src/navigation/dwa_local_planner/src/dwa_planner_ros.cpp:272:22:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass base_local_planner::LocalPlannerUtil[m[K’ has no member named ‘[01m[KgetRobotTrajectory[m[K’
+   if (!planner_util_.[01;31m[KgetRobotTrajectory[m[K(transform, transformed_plan, local_plan)) {
+                      [01;31m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/airbud/catkin_ws/src/navigation/dwa_local_planner/src/dwa_planner_ros.cpp:272:41:[m[K [01;31m[Kerror: [m[K‘[01m[Ktransform[m[K’ was not declared in this scope
+   if (!planner_util_.getRobotTrajectory([01;31m[Ktransform[m[K, transformed_plan, local_plan)) {
+                                         [01;31m[K^~~~~~~~~[m[K
+[01m[K/home/airbud/catkin_ws/src/navigation/dwa_local_planner/src/dwa_planner_ros.cpp:272:41:[m[K [01;36m[Knote: [m[Ksuggested alternatives:
+In file included from [01m[K/usr/include/c++/7/algorithm:62:0[m[K,
+                 from [01m[K/usr/include/boost/smart_ptr/shared_ptr.hpp:39[m[K,
+                 from [01m[K/usr/include/boost/shared_ptr.hpp:17[m[K,
+                 from [01m[K/home/airbud/catkin_ws/src/navigation/dwa_local_planner/include/dwa_local_planner/dwa_planner_ros.h:40[m[K,
+                 from [01m[K/home/airbud/catkin_ws/src/navigation/dwa_local_planner/src/dwa_planner_ros.cpp:38[m[K:
+[01m[K/usr/include/c++/7/bits/stl_algo.h:4332:5:[m[K [01;36m[Knote: [m[K  ‘[01m[Kstd::transform[m[K’
+     [01;36m[Ktransform[m[K(_InputIterator1 __first1, _InputIterator1 __last1,
+     [01;36m[K^~~~~~~~~[m[K
+In file included from [01m[K/usr/include/boost/variant/variant.hpp:90:0[m[K,
+                 from [01m[K/usr/include/boost/signals2/slot_base.hpp:21[m[K,
+                 from [01m[K/usr/include/boost/signals2/detail/tracked_objects_visitor.hpp:18[m[K,
+                 from [01m[K/usr/include/boost/signals2/slot.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/signals2/connection.hpp:24[m[K,
+                 from [01m[K/usr/include/boost/signals2/signal.hpp:22[m[K,
+                 from [01m[K/usr/include/boost/signals2.hpp:19[m[K,
+                 from [01m[K/opt/ros/melodic/include/tf2/buffer_core.h:37[m[K,
+                 from [01m[K/opt/ros/melodic/include/tf2_ros/buffer_interface.h:35[m[K,
+                 from [01m[K/opt/ros/melodic/include/tf2_ros/buffer.h:35[m[K,
+                 from [01m[K/home/airbud/catkin_ws/src/navigation/dwa_local_planner/include/dwa_local_planner/dwa_planner_ros.h:43[m[K,
+                 from [01m[K/home/airbud/catkin_ws/src/navigation/dwa_local_planner/src/dwa_planner_ros.cpp:38[m[K:
+[01m[K/usr/include/boost/mpl/transform.hpp:138:1:[m[K [01;36m[Knote: [m[K  ‘[01m[Kboost::mpl::transform[m[K’
+ [01;36m[KA[m[KUX778076_TRANSFORM_DEF(transform)
+ [01;36m[K^[m[K
+[01m[K/home/airbud/catkin_ws/src/navigation/dwa_local_planner/src/dwa_planner_ros.cpp:278:22:[m[K [01;31m[Kerror: [m[K‘[01m[Kdesired_speed_[m[K’ was not declared in this scope
+   cmd_vel.linear.x = [01;31m[Kdesired_speed_[m[K;
+                      [01;31m[K^~~~~~~~~~~~~~[m[K
+[01m[K/home/airbud/catkin_ws/src/navigation/dwa_local_planner/src/dwa_planner_ros.cpp:[m[K At global scope:
+[01m[K/home/airbud/catkin_ws/src/navigation/dwa_local_planner/src/dwa_planner_ros.cpp:284:2:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K}[m[K’ at end of input
+ }[01;31m[K;[m[K
+  [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/dwa_local_planner.dir/src/dwa_planner_ros.cpp.o] Error 1
+make[2]: *** Waiting for unfinished jobs....
+make[1]: *** [CMakeFiles/dwa_local_planner.dir/all] Error 2
+make: *** [all] Error 2

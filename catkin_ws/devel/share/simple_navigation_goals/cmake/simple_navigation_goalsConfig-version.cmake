@@ -1,0 +1,1 @@
+/home/airbud/catkin_ws/devel/.private/simple_navigation_goals/share/simple_navigation_goals/cmake/simple_navigation_goalsConfig-version.cmake

@@ -1,0 +1,16 @@
+[35m[1mScanning dependencies of target diffbot_base_gencfg[0m
+[ 16%] [34m[1mGenerating dynamic reconfigure files from cfg/Parameters.cfg: /home/airbud/catkin_ws/devel/.private/diffbot_base/include/diffbot_base/ParametersConfig.h /home/airbud/catkin_ws/devel/.private/diffbot_base/lib/python2.7/dist-packages/diffbot_base/cfg/ParametersConfig.py[0m
+Generating reconfiguration files for Parameters in diffbot_base
+Wrote header file in /home/airbud/catkin_ws/devel/.private/diffbot_base/include/diffbot_base/ParametersConfig.h
+[ 16%] Built target diffbot_base_gencfg
+[35m[1mScanning dependencies of target diffbot_msgs_generate_messages_cpp[0m
+[ 16%] Built target diffbot_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target diffbot_hw_interface[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/diffbot_hw_interface.dir/src/diffbot_hw_interface.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/diffbot_hw_interface.dir/src/pid.cpp.o[0m
+[ 66%] [32m[1mLinking CXX shared library /home/airbud/catkin_ws/devel/.private/diffbot_base/lib/libdiffbot_hw_interface.so[0m
+[ 66%] Built target diffbot_hw_interface
+[35m[1mScanning dependencies of target diffbot_base[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/diffbot_base.dir/src/diffbot_base.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/airbud/catkin_ws/devel/.private/diffbot_base/lib/diffbot_base/diffbot_base[0m
+[100%] Built target diffbot_base

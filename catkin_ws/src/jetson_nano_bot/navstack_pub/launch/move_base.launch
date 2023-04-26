@@ -1,0 +1,18 @@
+<launch>
+  <!-- Move Base Node -->
+  <!-- Subscribe: /move_base_simple/goal -->
+  <!-- Publish: /cmd_vel -->
+
+  <node pkg="move_base" type="move_base" respawn="false" name="move_base" output="screen">
+    <rosparam file="$(find navstack_pub)/param/costmap_common_params.yaml" command="load" ns="global_costmap" />
+    <rosparam file="$(find navstack_pub)/param/costmap_common_params.yaml" command="load" ns="local_costmap" />
+    <rosparam file="$(find navstack_pub)/param/local_costmap_params.yaml" command="load" ns="local_costmap" />
+    <rosparam file="$(find navstack_pub)/param/global_costmap_params.yaml" command="load" ns="global_costmap" />
+    <rosparam file="$(find navstack_pub)/param/base_local_planner_params.yaml" command="load"/>
+    <rosparam file="$(find navstack_pub)/param/base_global_planner_params.yaml" command="load"/>
+    <param name="base_local_planner"		value="base_local_planner/TrajectoryPlannerROS" />
+    <param name="base_global_planner" 		value="global_planner/GlobalPlanner" />
+    <param name="yaw_goal_tolerance" value="2.05"/>
+    <param name="yaw_stopped_tolerance" value="2.01"/>
+  </node>
+</launch>

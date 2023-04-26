@@ -1,0 +1,6 @@
+Symlinking /home/airbud/catkin_ws/devel/lib/libgeotiff_writer.so
+Symlinking /home/airbud/catkin_ws/devel/lib/hector_geotiff/geotiff_node
+Symlinking /home/airbud/catkin_ws/devel/lib/hector_geotiff/geotiff_saver
+Symlinking /home/airbud/catkin_ws/devel/lib/pkgconfig/hector_geotiff.pc
+Symlinking /home/airbud/catkin_ws/devel/share/hector_geotiff/cmake/hector_geotiffConfig-version.cmake
+Symlinking /home/airbud/catkin_ws/devel/share/hector_geotiff/cmake/hector_geotiffConfig.cmake

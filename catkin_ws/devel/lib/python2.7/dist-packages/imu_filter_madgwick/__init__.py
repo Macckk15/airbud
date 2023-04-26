@@ -1,0 +1,1 @@
+/home/airbud/catkin_ws/devel/.private/imu_filter_madgwick/lib/python2.7/dist-packages/imu_filter_madgwick/__init__.py

@@ -1,0 +1,5 @@
+Symlinking /home/airbud/catkin_ws/devel/lib/localization_data_pub/ekf_odom_pub
+Symlinking /home/airbud/catkin_ws/devel/lib/localization_data_pub/rviz_click_to_2d
+Symlinking /home/airbud/catkin_ws/devel/lib/pkgconfig/localization_data_pub.pc
+Symlinking /home/airbud/catkin_ws/devel/share/localization_data_pub/cmake/localization_data_pubConfig-version.cmake
+Symlinking /home/airbud/catkin_ws/devel/share/localization_data_pub/cmake/localization_data_pubConfig.cmake

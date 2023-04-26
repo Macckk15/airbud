@@ -1,0 +1,1 @@
+/home/airbud/catkin_ws/devel/.private/publisher/share/publisher/cmake/publisherConfig.cmake

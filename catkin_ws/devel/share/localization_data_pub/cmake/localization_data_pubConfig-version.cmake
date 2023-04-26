@@ -1,0 +1,1 @@
+/home/airbud/catkin_ws/devel/.private/localization_data_pub/share/localization_data_pub/cmake/localization_data_pubConfig-version.cmake

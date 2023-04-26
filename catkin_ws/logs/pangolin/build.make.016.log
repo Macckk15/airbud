@@ -1,0 +1,244 @@
+[35m[1mScanning dependencies of target pango_core[0m
+[  1%] [32mBuilding CXX object CMakeFiles/pango_core.dir/components/pango_core/src/file_extension.cpp.o[0m
+[  2%] [32mBuilding CXX object CMakeFiles/pango_core.dir/components/pango_core/src/file_utils.cpp.o[0m
+[  2%] [32mBuilding CXX object CMakeFiles/pango_core.dir/components/pango_core/src/sigstate.cpp.o[0m
+[  3%] [32mBuilding CXX object CMakeFiles/pango_core.dir/components/pango_core/src/threadedfilebuf.cpp.o[0m
+[  3%] [32mBuilding CXX object CMakeFiles/pango_core.dir/components/pango_core/src/avx_math.cpp.o[0m
+[  4%] [32mBuilding CXX object CMakeFiles/pango_core.dir/components/pango_core/src/uri.cpp.o[0m
+[  5%] [32mBuilding CXX object CMakeFiles/pango_core.dir/components/pango_core/src/param_set.cpp.o[0m
+[  5%] [32mBuilding CXX object CMakeFiles/pango_core.dir/components/pango_core/src/factory/factory_registry.cpp.o[0m
+[  6%] [32mBuilding CXX object CMakeFiles/pango_core.dir/components/pango_core/src/factory/factory_help.cpp.o[0m
+[  6%] [32mBuilding CXX object CMakeFiles/pango_core.dir/components/pango_core/src/posix/condition_variable.cpp.o[0m
+[  7%] [32mBuilding CXX object CMakeFiles/pango_core.dir/components/pango_core/src/posix/semaphore.cpp.o[0m
+[  8%] [32mBuilding CXX object CMakeFiles/pango_core.dir/components/pango_core/src/posix/shared_memory_buffer.cpp.o[0m
+[  8%] [32m[1mLinking CXX shared library libpango_core.so[0m
+[  8%] Built target pango_core
+[35m[1mScanning dependencies of target tinyobj[0m
+[  8%] [32mBuilding CXX object CMakeFiles/tinyobj.dir/components/tinyobj/src/tinyobj.cpp.o[0m
+[35m[1mScanning dependencies of target pango_vars[0m
+[  9%] [32mBuilding CXX object CMakeFiles/pango_vars.dir/components/pango_vars/src/vars.cpp.o[0m
+[ 10%] [32mBuilding CXX object CMakeFiles/pango_vars.dir/components/pango_vars/src/varstate.cpp.o[0m
+[ 11%] [32m[1mLinking CXX shared library libtinyobj.so[0m
+[ 11%] Built target tinyobj
+[35m[1mScanning dependencies of target pango_python[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/pango_python.dir/components/pango_core/src/dummy.cpp.o[0m
+[ 12%] [32m[1mLinking CXX shared library libpango_python.so[0m
+[ 12%] Built target pango_python
+[35m[1mScanning dependencies of target pango_image[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/pango_image.dir/components/pango_image/src/pixel_format.cpp.o[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/pango_image.dir/components/pango_image/src/image_io.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/pango_image.dir/components/pango_image/src/image_io_exr.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/pango_image.dir/components/pango_image/src/image_io_jpg.cpp.o[0m
+[ 14%] [32m[1mLinking CXX shared library libpango_vars.so[0m
+[ 15%] [32mBuilding CXX object CMakeFiles/pango_image.dir/components/pango_image/src/image_io_lz4.cpp.o[0m
+[ 15%] Built target pango_vars
+[ 15%] [32mBuilding CXX object CMakeFiles/pango_image.dir/components/pango_image/src/image_io_packed12bit.cpp.o[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/pango_image.dir/components/pango_image/src/image_io_pango.cpp.o[0m
+[ 17%] [32mBuilding CXX object CMakeFiles/pango_image.dir/components/pango_image/src/image_io_png.cpp.o[0m
+[ 17%] [32mBuilding CXX object CMakeFiles/pango_image.dir/components/pango_image/src/image_io_ppm.cpp.o[0m
+[35m[1mScanning dependencies of target pango_packetstream[0m
+[ 17%] [32mBuilding CXX object CMakeFiles/pango_packetstream.dir/components/pango_packetstream/src/packet.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/pango_image.dir/components/pango_image/src/image_io_raw.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/pango_image.dir/components/pango_image/src/image_io_tga.cpp.o[0m
+[ 19%] [32mBuilding CXX object CMakeFiles/pango_image.dir/components/pango_image/src/image_io_bmp.cpp.o[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/pango_image.dir/components/pango_image/src/image_io_zstd.cpp.o[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/pango_image.dir/components/pango_image/src/image_io_libraw.cpp.o[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/pango_packetstream.dir/components/pango_packetstream/src/packetstream.cpp.o[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/pango_image.dir/components/pango_image/src/image_io_tiff.cpp.o[0m
+[ 23%] [32mBuilding CXX object CMakeFiles/pango_packetstream.dir/components/pango_packetstream/src/packetstream_reader.cpp.o[0m
+[ 23%] [32m[1mLinking CXX shared library libpango_image.so[0m
+[ 23%] Built target pango_image
+[ 23%] [32mBuilding CXX object CMakeFiles/pango_packetstream.dir/components/pango_packetstream/src/packetstream_writer.cpp.o[0m
+[ 24%] [32mBuilding CXX object CMakeFiles/pango_packetstream.dir/components/pango_packetstream/src/playback_session.cpp.o[0m
+[ 25%] [34m[1mEmbedding /home/airbud/catkin_ws/src/Pangolin/Pangolin/components/pango_opengl/src/fonts/AnonymousPro.ttf into fonts.cpp[0m
+[35m[1mScanning dependencies of target pango_opengl[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/pango_opengl.dir/components/pango_opengl/src/glchar.cpp.o[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/pango_opengl.dir/components/pango_opengl/src/gldraw.cpp.o[0m
+[ 26%] [32m[1mLinking CXX shared library libpango_packetstream.so[0m
+[ 26%] Built target pango_packetstream
+[35m[1mScanning dependencies of target pango_geometry[0m
+[ 27%] [32mBuilding CXX object CMakeFiles/pango_geometry.dir/components/pango_geometry/src/geometry.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/pango_opengl.dir/components/pango_opengl/src/glfont.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/pango_opengl.dir/components/pango_opengl/src/gltext.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/pango_geometry.dir/components/pango_geometry/src/geometry_obj.cpp.o[0m
+[ 29%] [32mBuilding CXX object CMakeFiles/pango_opengl.dir/components/pango_opengl/src/glpangoglu.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/pango_opengl.dir/components/pango_opengl/src/gltexturecache.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/pango_opengl.dir/components/pango_opengl/src/viewport.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/pango_geometry.dir/components/pango_geometry/src/geometry_ply.cpp.o[0m
+[ 32%] [32mBuilding CXX object CMakeFiles/pango_opengl.dir/components/pango_opengl/src/opengl_render_state.cpp.o[0m
+[ 32%] [32mBuilding CXX object CMakeFiles/pango_opengl.dir/fonts.cpp.o[0m
+[ 33%] [32m[1mLinking CXX shared library libpango_opengl.so[0m
+[ 33%] Built target pango_opengl
+[ 33%] [34m[1mCreating /home/airbud/catkin_ws/build/pangolin/include/pangolin/factory/RegisterFactoriesVideoOutputInterface.h factory registry header[0m
+[ 34%] [34m[1mCreating /home/airbud/catkin_ws/build/pangolin/include/pangolin/factory/RegisterFactoriesVideoInterface.h factory registry header[0m
+[35m[1mScanning dependencies of target pango_video[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/stream_encoder_factory.cpp.o[0m
+[ 36%] [32m[1mLinking CXX shared library libpango_geometry.so[0m
+[ 36%] Built target pango_geometry
+[35m[1mScanning dependencies of target pango_glgeometry[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/pango_glgeometry.dir/components/pango_glgeometry/src/glgeometry.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/video_input.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/video_output.cpp.o[0m
+[ 38%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/video.cpp.o[0m
+[ 39%] [32m[1mLinking CXX shared library libpango_glgeometry.so[0m
+[ 39%] Built target pango_glgeometry
+[ 39%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/video_help.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/test.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/images.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/images_out.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/split.cpp.o[0m
+[ 42%] [34m[1mGenerating xdg-shell-client-protocol.h[0m
+[ 43%] [34m[1mCreating /home/airbud/catkin_ws/build/pangolin/include/pangolin/factory/RegisterFactoriesWindowInterface.h factory registry header[0m
+[ 44%] [34m[1mGenerating xdg-shell-protocol.c[0m
+[35m[1mScanning dependencies of target pango_windowing[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/pango_windowing.dir/components/pango_windowing/src/display_x11.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/pango_windowing.dir/components/pango_windowing/src/display_wayland.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/truncate.cpp.o[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/pango.cpp.o[0m
+[ 47%] [32mBuilding C object CMakeFiles/pango_windowing.dir/xdg-shell-protocol.c.o[0m
+[ 48%] [32mBuilding CXX object CMakeFiles/pango_windowing.dir/components/pango_windowing/src/display_headless.cpp.o[0m
+[ 48%] [32mBuilding CXX object CMakeFiles/pango_windowing.dir/components/pango_windowing/src/window.cpp.o[0m
+[ 49%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/pango_video_output.cpp.o[0m
+[ 49%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/debayer.cpp.o[0m
+[ 50%] [32m[1mLinking CXX shared library libpango_windowing.so[0m
+[ 50%] Built target pango_windowing
+[35m[1mScanning dependencies of target pango_scene[0m
+[ 51%] [32mBuilding CXX object CMakeFiles/pango_scene.dir/components/pango_scene/src/renderable.cpp.o[0m
+[ 51%] [32m[1mLinking CXX shared library libpango_scene.so[0m
+[ 51%] Built target pango_scene
+[35m[1mScanning dependencies of target pango_display[0m
+[ 52%] [32mBuilding CXX object CMakeFiles/pango_display.dir/components/pango_display/src/display.cpp.o[0m
+[ 52%] [32mBuilding CXX object CMakeFiles/pango_display.dir/components/pango_display/src/process.cpp.o[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/shift.cpp.o[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/pango_display.dir/components/pango_display/src/pangolin_gl.cpp.o[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/transform.cpp.o[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/pango_display.dir/components/pango_display/src/handler.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/unpack.cpp.o[0m
+[ 56%] [32mBuilding CXX object CMakeFiles/pango_display.dir/components/pango_display/src/handler_image.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/pango_display.dir/components/pango_display/src/handler_glbuffer.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/pango_display.dir/components/pango_display/src/view.cpp.o[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/pack.cpp.o[0m
+[ 59%] [32mBuilding CXX object CMakeFiles/pango_display.dir/components/pango_display/src/widgets.cpp.o[0m
+[ 59%] [32mBuilding CXX object CMakeFiles/pango_display.dir/components/pango_display/src/image_view.cpp.o[0m
+[ 59%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/join.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/merge.cpp.o[0m
+[ 61%] [32mBuilding CXX object CMakeFiles/pango_display.dir/components/pango_display/src/ConsoleView.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/pango_display.dir/components/pango_display/src/default_font.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/json.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/thread.cpp.o[0m
+[ 63%] [32m[1mLinking CXX shared library libpango_display.so[0m
+[ 63%] Built target pango_display
+[ 63%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/mjpeg.cpp.o[0m
+[ 64%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/shared_memory.cpp.o[0m
+[35m[1mScanning dependencies of target pango_plot[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/pango_plot.dir/components/pango_plot/src/datalog.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/pango_plot.dir/components/pango_plot/src/plotter.cpp.o[0m
+[ 67%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/firewire.cpp.o[0m
+[ 67%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/deinterlace.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/v4l.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/ffmpeg.cpp.o[0m
+[ 68%] [32mBuilding CXX object CMakeFiles/pango_plot.dir/components/pango_plot/src/loaders/csv_table_loader.cpp.o[0m
+[ 69%] [32m[1mLinking CXX shared library libpango_plot.so[0m
+[ 69%] Built target pango_plot
+[35m[1mScanning dependencies of target tutorial_5_gl_intro_view_transforms[0m
+[ 70%] [32mBuilding CXX object examples/BasicOpenGL/CMakeFiles/tutorial_5_gl_intro_view_transforms.dir/5_gl_intro_view_transforms.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/ffmpeg_convert.cpp.o[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/ffmpeg_output.cpp.o[0m
+[ 73%] [32m[1mLinking CXX executable tutorial_5_gl_intro_view_transforms[0m
+[ 73%] Built target tutorial_5_gl_intro_view_transforms
+[ 73%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/openni.cpp.o[0m
+[ 74%] [32mBuilding CXX object CMakeFiles/pango_video.dir/components/pango_video/src/drivers/openni2.cpp.o[0m
+[35m[1mScanning dependencies of target tutorial_4_gl_intro_viewport[0m
+[ 75%] [32mBuilding CXX object examples/BasicOpenGL/CMakeFiles/tutorial_4_gl_intro_viewport.dir/4_gl_intro_viewport.cpp.o[0m
+[35m[1mScanning dependencies of target tutorial_1_gl_intro_pango_triangle[0m
+[ 76%] [32mBuilding CXX object examples/BasicOpenGL/CMakeFiles/tutorial_1_gl_intro_pango_triangle.dir/1_gl_intro_pango_triangle.cpp.o[0m
+[ 76%] [32m[1mLinking CXX executable tutorial_4_gl_intro_viewport[0m
+[ 76%] Built target tutorial_4_gl_intro_viewport
+[ 76%] [32m[1mLinking CXX shared library libpango_video.so[0m
+[ 76%] Built target pango_video
+[ 76%] [32m[1mLinking CXX executable tutorial_1_gl_intro_pango_triangle[0m
+[ 76%] Built target tutorial_1_gl_intro_pango_triangle
+[35m[1mScanning dependencies of target tutorial_1_gl_intro_classic_triangle[0m
+[ 77%] [32mBuilding CXX object examples/BasicOpenGL/CMakeFiles/tutorial_1_gl_intro_classic_triangle.dir/1_gl_intro_classic_triangle.cpp.o[0m
+[ 77%] [32m[1mLinking CXX executable tutorial_1_gl_intro_classic_triangle[0m
+[ 77%] Built target tutorial_1_gl_intro_classic_triangle
+[35m[1mScanning dependencies of target tutorial_2_gl_intro_classic_triangle_vbo[0m
+[ 78%] [32mBuilding CXX object examples/BasicOpenGL/CMakeFiles/tutorial_2_gl_intro_classic_triangle_vbo.dir/2_gl_intro_classic_triangle_vbo.cpp.o[0m
+[ 79%] [32m[1mLinking CXX executable tutorial_2_gl_intro_classic_triangle_vbo[0m
+[ 79%] Built target tutorial_2_gl_intro_classic_triangle_vbo
+[35m[1mScanning dependencies of target tutorial_2_gl_intro_pango_triangle_vbo[0m
+[ 79%] [32mBuilding CXX object examples/BasicOpenGL/CMakeFiles/tutorial_2_gl_intro_pango_triangle_vbo.dir/2_gl_intro_pango_triangle_vbo.cpp.o[0m
+[ 80%] [32m[1mLinking CXX executable tutorial_2_gl_intro_pango_triangle_vbo[0m
+[ 80%] Built target tutorial_2_gl_intro_pango_triangle_vbo
+[35m[1mScanning dependencies of target tutorial_3_gl_intro_pango_triangle_vbo_shader[0m
+[ 81%] [32mBuilding CXX object examples/BasicOpenGL/CMakeFiles/tutorial_3_gl_intro_pango_triangle_vbo_shader.dir/3_gl_intro_pango_triangle_vbo_shader.cpp.o[0m
+[35m[1mScanning dependencies of target tutorial_3_gl_intro_classic_triangle_vbo_shader[0m
+[ 81%] [32mBuilding CXX object examples/BasicOpenGL/CMakeFiles/tutorial_3_gl_intro_classic_triangle_vbo_shader.dir/3_gl_intro_classic_triangle_vbo_shader.cpp.o[0m
+[ 82%] [32m[1mLinking CXX executable tutorial_3_gl_intro_classic_triangle_vbo_shader[0m
+[ 82%] Built target tutorial_3_gl_intro_classic_triangle_vbo_shader
+[ 82%] [32m[1mLinking CXX executable tutorial_3_gl_intro_pango_triangle_vbo_shader[0m
+[ 82%] Built target tutorial_3_gl_intro_pango_triangle_vbo_shader
+[35m[1mScanning dependencies of target HelloPangolin[0m
+[ 82%] [32mBuilding CXX object examples/HelloPangolin/CMakeFiles/HelloPangolin.dir/main.cpp.o[0m
+[ 83%] [32m[1mLinking CXX executable HelloPangolin[0m
+[ 83%] Built target HelloPangolin
+[35m[1mScanning dependencies of target SimpleDisplay[0m
+[ 84%] [32mBuilding CXX object examples/SimpleDisplay/CMakeFiles/SimpleDisplay.dir/main.cpp.o[0m
+[35m[1mScanning dependencies of target SimpleMultiDisplay[0m
+[ 84%] [32mBuilding CXX object examples/SimpleMultiDisplay/CMakeFiles/SimpleMultiDisplay.dir/main.cpp.o[0m
+[35m[1mScanning dependencies of target SimpleDisplayImage[0m
+[ 85%] [32mBuilding CXX object examples/SimpleDisplayImage/CMakeFiles/SimpleDisplayImage.dir/main.cpp.o[0m
+[ 86%] [32m[1mLinking CXX executable SimpleMultiDisplay[0m
+[ 86%] Built target SimpleMultiDisplay
+[35m[1mScanning dependencies of target SimplePlot[0m
+[ 86%] [32mBuilding CXX object examples/SimplePlot/CMakeFiles/SimplePlot.dir/main.cpp.o[0m
+[ 87%] [32m[1mLinking CXX executable SimpleDisplayImage[0m
+[ 87%] Built target SimpleDisplayImage
+[35m[1mScanning dependencies of target SimpleVideo[0m
+[ 88%] [32mBuilding CXX object examples/SimpleVideo/CMakeFiles/SimpleVideo.dir/main.cpp.o[0m
+[ 89%] [32m[1mLinking CXX executable SimpleVideo[0m
+[ 89%] [32m[1mLinking CXX executable SimpleDisplay[0m
+[ 90%] [32m[1mLinking CXX executable SimplePlot[0m
+[ 90%] Built target SimpleDisplay
+[ 90%] Built target SimpleVideo
+[ 90%] Built target SimplePlot
+[35m[1mScanning dependencies of target SimpleRecord[0m
+[35m[1mScanning dependencies of target SimpleScene[0m
+[35m[1mScanning dependencies of target HelloPangolinOffscreen[0m
+[ 91%] [32mBuilding CXX object examples/SimpleRecord/CMakeFiles/SimpleRecord.dir/main.cpp.o[0m
+[ 92%] [32mBuilding CXX object examples/SimpleScene/CMakeFiles/SimpleScene.dir/main.cpp.o[0m
+[ 92%] [32mBuilding CXX object examples/HelloPangolinOffscreen/CMakeFiles/HelloPangolinOffscreen.dir/main.cpp.o[0m
+[ 92%] [32m[1mLinking CXX executable SimpleRecord[0m
+[ 92%] Built target SimpleRecord
+[35m[1mScanning dependencies of target pango_tools[0m
+[ 93%] [32m[1mLinking CXX executable HelloPangolinOffscreen[0m
+[ 94%] [32mBuilding CXX object CMakeFiles/pango_tools.dir/components/pango_tools/src/video_viewer.cpp.o[0m
+[ 94%] Built target HelloPangolinOffscreen
+[ 94%] [32m[1mLinking CXX executable SimpleScene[0m
+[ 94%] Built target SimpleScene
+[ 94%] [32m[1mLinking CXX shared library libpango_tools.so[0m
+[ 94%] Built target pango_tools
+[35m[1mScanning dependencies of target VideoViewer[0m
+[ 95%] [32mBuilding CXX object tools/VideoViewer/CMakeFiles/VideoViewer.dir/main.cpp.o[0m
+[35m[1mScanning dependencies of target VideoConvert[0m
+[ 95%] [32mBuilding CXX object tools/VideoConvert/CMakeFiles/VideoConvert.dir/main.cpp.o[0m
+[ 95%] [32m[1mLinking CXX executable VideoViewer[0m
+[ 95%] Built target VideoViewer
+[35m[1mScanning dependencies of target VideoJsonPrint[0m
+[ 95%] [32mBuilding CXX object tools/VideoJson/CMakeFiles/VideoJsonPrint.dir/main-print.cpp.o[0m
+[ 96%] [32m[1mLinking CXX executable VideoConvert[0m
+[ 96%] Built target VideoConvert
+[35m[1mScanning dependencies of target VideoJsonTransform[0m
+[ 97%] [32mBuilding CXX object tools/VideoJson/CMakeFiles/VideoJsonTransform.dir/main-transform.cpp.o[0m
+[ 98%] [32m[1mLinking CXX executable VideoJsonPrint[0m
+[ 98%] Built target VideoJsonPrint
+[35m[1mScanning dependencies of target Plotter[0m
+[ 99%] [32mBuilding CXX object tools/Plotter/CMakeFiles/Plotter.dir/main.cpp.o[0m
+[35m[1mScanning dependencies of target ModelViewer[0m
+[ 99%] [32mBuilding CXX object tools/ModelViewer/CMakeFiles/ModelViewer.dir/main.cpp.o[0m
+[ 99%] [32m[1mLinking CXX executable Plotter[0m
+[ 99%] Built target Plotter
+[ 99%] [32m[1mLinking CXX executable VideoJsonTransform[0m
+[ 99%] Built target VideoJsonTransform
+[100%] [32m[1mLinking CXX executable ModelViewer[0m
+[100%] Built target ModelViewer

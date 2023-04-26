@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+e4888bf6d95c72f13abab61970f81887 CMakeFiles/uninstall
+79ad0e6a77234f159f90b0f98f4c2346 fonts.cpp
+665773b8e368c734e1dbfb6e8701eddd include/pangolin/factory/RegisterFactoriesVideoInterface.h
+6a8799036f3c3079777f57c47afacaf2 include/pangolin/factory/RegisterFactoriesVideoOutputInterface.h
+a1500a16ddb99366bbc86d087164e7c2 include/pangolin/factory/RegisterFactoriesWindowInterface.h
+0df56d15f8b4061e3648b0071c69db68 shaders.cpp
+55703f440a5813597ad78df6c8e0932a tools/Plotter/CMakeFiles/register-mime-info-plotter
+b7e1bf3e94ece995639dbe4f28e9bde5 tools/VideoViewer/CMakeFiles/register-mime-info-videoviewer
+5da64f22ff21785be74fe7a2c56ca81d xdg-shell-client-protocol.h
+3ac7c2c321f1d006499cde90cff83312 xdg-shell-protocol.c

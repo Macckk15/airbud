@@ -1,0 +1,19 @@
+[ 77%] Built target DBoW2
+[100%] Built target demo
+[36mInstall the project...[0m
+-- Install configuration: "Release"
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/libDBoW2.so
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/DBoW2
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/DBoW2/FClass.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/DBoW2/TemplatedVocabulary.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/DBoW2/TemplatedDatabase.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/DBoW2/QueryResults.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/DBoW2/FORB.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/DBoW2/ScoringObject.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/DBoW2/DBoW2.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/DBoW2/FSurf64.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/DBoW2/FeatureVector.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/DBoW2/FBrief.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/DBoW2/BowVector.h
+-- Up-to-date: /home/airbud/catkin_ws/devel/include/DBoW2/DBoW2Config.cmake
+-- Up-to-date: /home/airbud/catkin_ws/devel/lib/cmake/DBoW2/DBoW2Config.cmake

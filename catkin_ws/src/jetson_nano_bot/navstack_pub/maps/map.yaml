@@ -1,0 +1,6 @@
+image: /home/airbud/catkin_ws/src/jetson_nano_bot/navstack_pub/maps/map.pgm
+resolution: 0.200000
+origin: [-5,-5, 0.000000]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196

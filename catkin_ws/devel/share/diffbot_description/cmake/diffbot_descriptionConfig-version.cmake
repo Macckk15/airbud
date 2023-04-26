@@ -1,0 +1,1 @@
+/home/airbud/catkin_ws/devel/.private/diffbot_description/share/diffbot_description/cmake/diffbot_descriptionConfig-version.cmake

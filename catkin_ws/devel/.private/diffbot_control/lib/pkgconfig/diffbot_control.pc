@@ -1,0 +1,8 @@
+prefix=/home/airbud/catkin_ws/devel/.private/diffbot_control
+
+Name: diffbot_control
+Description: Description of diffbot_control
+Version: 1.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

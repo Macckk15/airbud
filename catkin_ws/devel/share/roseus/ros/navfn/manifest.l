@@ -1,0 +1,1 @@
+/home/airbud/catkin_ws/devel/.private/navfn/share/roseus/ros/navfn/manifest.l

@@ -1,0 +1,19 @@
+[35m[1mScanning dependencies of target imu_filter_madgwick_gencfg[0m
+[ 11%] [34m[1mGenerating dynamic reconfigure files from cfg/ImuFilterMadgwick.cfg: /home/airbud/catkin_ws/devel/.private/imu_filter_madgwick/include/imu_filter_madgwick/ImuFilterMadgwickConfig.h /home/airbud/catkin_ws/devel/.private/imu_filter_madgwick/lib/python2.7/dist-packages/imu_filter_madgwick/cfg/ImuFilterMadgwickConfig.py[0m
+Generating reconfiguration files for ImuFilterMadgwick in imu_filter_madgwick
+Wrote header file in /home/airbud/catkin_ws/devel/.private/imu_filter_madgwick/include/imu_filter_madgwick/ImuFilterMadgwickConfig.h
+[ 11%] Built target imu_filter_madgwick_gencfg
+[35m[1mScanning dependencies of target imu_filter[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/imu_filter.dir/src/imu_filter.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/imu_filter.dir/src/imu_filter_ros.cpp.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/imu_filter.dir/src/stateless_orientation.cpp.o[0m
+[ 55%] [32m[1mLinking CXX shared library /home/airbud/catkin_ws/devel/.private/imu_filter_madgwick/lib/libimu_filter.so[0m
+[ 55%] Built target imu_filter
+[35m[1mScanning dependencies of target imu_filter_node[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/imu_filter_node.dir/src/imu_filter_node.cpp.o[0m
+[35m[1mScanning dependencies of target imu_filter_nodelet[0m
+[ 77%] [32mBuilding CXX object CMakeFiles/imu_filter_nodelet.dir/src/imu_filter_nodelet.cpp.o[0m
+[ 88%] [32m[1mLinking CXX executable /home/airbud/catkin_ws/devel/.private/imu_filter_madgwick/lib/imu_filter_madgwick/imu_filter_node[0m
+[100%] [32m[1mLinking CXX shared library /home/airbud/catkin_ws/devel/.private/imu_filter_madgwick/lib/libimu_filter_nodelet.so[0m
+[100%] Built target imu_filter_node
+[100%] Built target imu_filter_nodelet

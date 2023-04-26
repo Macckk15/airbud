@@ -1,0 +1,19 @@
+[  0%] Built target _diffbot_msgs_generate_messages_check_deps_EncodersStamped
+[  0%] Built target _diffbot_msgs_generate_messages_check_deps_PIDStamped
+[  0%] Built target _diffbot_msgs_generate_messages_check_deps_AngularVelocities
+[  0%] Built target _diffbot_msgs_generate_messages_check_deps_WheelsCmd
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target _diffbot_msgs_generate_messages_check_deps_WheelsCmdStamped
+[  0%] Built target _diffbot_msgs_generate_messages_check_deps_Encoders
+[  0%] Built target _diffbot_msgs_generate_messages_check_deps_AngularVelocitiesStamped
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target _diffbot_msgs_generate_messages_check_deps_PID
+[  0%] Built target std_msgs_generate_messages_py
+[ 19%] Built target diffbot_msgs_generate_messages_lisp
+[ 38%] Built target diffbot_msgs_generate_messages_nodejs
+[ 57%] Built target diffbot_msgs_generate_messages_cpp
+[ 78%] Built target diffbot_msgs_generate_messages_py
+[100%] Built target diffbot_msgs_generate_messages_eus
+[100%] Built target diffbot_msgs_generate_messages

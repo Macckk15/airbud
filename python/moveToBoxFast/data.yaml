@@ -1,0 +1,7 @@
+
+path: /home/airbud/catkin_ws/src/jetson_nano_bot/navstack_pub/src/yolo_top/datasets/box
+train: ../train/images
+val: ../valid/images
+
+nc: 1
+names: ['cardboard']

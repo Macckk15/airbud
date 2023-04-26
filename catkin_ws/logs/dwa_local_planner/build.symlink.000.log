@@ -1,0 +1,11 @@
+Symlinking /home/airbud/catkin_ws/devel/include/dwa_local_planner/DWAPlannerConfig.h
+Symlinking /home/airbud/catkin_ws/devel/lib/libdwa_local_planner.so
+Symlinking /home/airbud/catkin_ws/devel/lib/python2.7/dist-packages/dwa_local_planner/__init__.py
+Symlinking /home/airbud/catkin_ws/devel/lib/python2.7/dist-packages/dwa_local_planner/cfg/__init__.py
+Symlinking /home/airbud/catkin_ws/devel/lib/python2.7/dist-packages/dwa_local_planner/cfg/DWAPlannerConfig.py
+Symlinking /home/airbud/catkin_ws/devel/lib/pkgconfig/dwa_local_planner.pc
+Symlinking /home/airbud/catkin_ws/devel/share/dwa_local_planner/docs/DWAPlannerConfig.dox
+Symlinking /home/airbud/catkin_ws/devel/share/dwa_local_planner/docs/DWAPlannerConfig-usage.dox
+Symlinking /home/airbud/catkin_ws/devel/share/dwa_local_planner/docs/DWAPlannerConfig.wikidoc
+Symlinking /home/airbud/catkin_ws/devel/share/dwa_local_planner/cmake/dwa_local_plannerConfig.cmake
+Symlinking /home/airbud/catkin_ws/devel/share/dwa_local_planner/cmake/dwa_local_plannerConfig-version.cmake

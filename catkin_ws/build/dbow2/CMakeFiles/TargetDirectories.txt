@@ -1,0 +1,8 @@
+/home/airbud/catkin_ws/build/dbow2/CMakeFiles/install/strip.dir
+/home/airbud/catkin_ws/build/dbow2/CMakeFiles/install/local.dir
+/home/airbud/catkin_ws/build/dbow2/CMakeFiles/install.dir
+/home/airbud/catkin_ws/build/dbow2/CMakeFiles/demo.dir
+/home/airbud/catkin_ws/build/dbow2/CMakeFiles/DBoW2.dir
+/home/airbud/catkin_ws/build/dbow2/CMakeFiles/edit_cache.dir
+/home/airbud/catkin_ws/build/dbow2/CMakeFiles/rebuild_cache.dir
+/home/airbud/catkin_ws/build/dbow2/CMakeFiles/list_install_components.dir

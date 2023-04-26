@@ -1,0 +1,4 @@
+Symlinking /home/airbud/catkin_ws/devel/lib/libclear_costmap_recovery.so
+Symlinking /home/airbud/catkin_ws/devel/lib/pkgconfig/clear_costmap_recovery.pc
+Symlinking /home/airbud/catkin_ws/devel/share/clear_costmap_recovery/cmake/clear_costmap_recoveryConfig-version.cmake
+Symlinking /home/airbud/catkin_ws/devel/share/clear_costmap_recovery/cmake/clear_costmap_recoveryConfig.cmake

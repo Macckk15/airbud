@@ -1,0 +1,30 @@
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target Camera_Data_generate_messages_nodejs[0m
+[  0%] Built target Camera_Data_generate_messages_nodejs
+[35m[1mScanning dependencies of target Camera_Data_generate_messages_eus[0m
+[100%] [34m[1mGenerating EusLisp manifest code for Camera_Data[0m
+WARNING: Package name "Camera_Data" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "Camera_Data" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "seniorDesign" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[35m[1mScanning dependencies of target Camera_Data_generate_messages_py[0m
+[100%] Built target Camera_Data_generate_messages_py
+WARNING: Package name "Camera_Data" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+WARNING: Package name "Camera_Data" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[35m[1mScanning dependencies of target Camera_Data_generate_messages_cpp[0m
+[100%] Built target Camera_Data_generate_messages_cpp
+WARNING: Package name "seniorDesign" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[35m[1mScanning dependencies of target Camera_Data_generate_messages_lisp[0m
+[100%] Built target Camera_Data_generate_messages_lisp
+WARNING: Package name "Camera_Data" does not follow the naming conventions. It should start with a lower case letter and only contain lower case letters, digits, underscores, and dashes.
+[100%] Built target Camera_Data_generate_messages_eus
+[35m[1mScanning dependencies of target Camera_Data_generate_messages[0m
+[100%] Built target Camera_Data_generate_messages

@@ -1,0 +1,13 @@
+[35m[1mScanning dependencies of target DBoW2[0m
+[ 11%] [32mBuilding CXX object CMakeFiles/DBoW2.dir/src/BowVector.cpp.o[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/DBoW2.dir/src/FBrief.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/DBoW2.dir/src/FORB.cpp.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/DBoW2.dir/src/FeatureVector.cpp.o[0m
+[ 55%] [32mBuilding CXX object CMakeFiles/DBoW2.dir/src/QueryResults.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/DBoW2.dir/src/ScoringObject.cpp.o[0m
+[ 77%] [32m[1mLinking CXX shared library libDBoW2.so[0m
+[ 77%] Built target DBoW2
+[35m[1mScanning dependencies of target demo[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/demo.dir/demo/demo.cpp.o[0m
+[100%] [32m[1mLinking CXX executable demo[0m
+[100%] Built target demo

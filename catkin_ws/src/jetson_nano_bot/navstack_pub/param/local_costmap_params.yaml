@@ -1,0 +1,24 @@
+local_costmap:
+  global_frame: odom
+  robot_base_frame: base_link
+  update_frequency: 0.5
+  publish_frequency: 0.5
+  transform_tolerance: 0.5
+  static_map: false
+  rolling_window: false
+  resolution: 0.1
+  inflation_radius: 0.05
+  width: 1.0
+  height: 1.0
+
+  plugins:
+    - {name: obstacle_layer, type: "costmap_2d::ObstacleLayer"}
+    - {name: local_footprint, type: "costmap_2d::FootprintLayer"}
+    - {name: local_costmap, type: "costmap_2d::Costmap2DROS"}
+
+  obstacle_layer:
+    observation_sources: laser_scan_sensor
+    laser_scan_sensor: {sensor_frame: laser, data_type: LaserScan, topic: scan, marking: false, clearing: true, obstacle_range: 1.0}
+
+footprint_topic: /move_base/local_costmap/footprint
+

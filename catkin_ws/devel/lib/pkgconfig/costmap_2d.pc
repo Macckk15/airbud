@@ -1,0 +1,1 @@
+/home/airbud/catkin_ws/devel/.private/costmap_2d/lib/pkgconfig/costmap_2d.pc

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/airbud/catkin_ws/devel/.private/move_slow_and_clear/setup.sh

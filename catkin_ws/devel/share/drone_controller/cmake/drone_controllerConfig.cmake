@@ -1,0 +1,1 @@
+/home/airbud/catkin_ws/devel/.private/drone_controller/share/drone_controller/cmake/drone_controllerConfig.cmake

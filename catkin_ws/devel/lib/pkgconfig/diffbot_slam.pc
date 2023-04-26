@@ -1,0 +1,1 @@
+/home/airbud/catkin_ws/devel/.private/diffbot_slam/lib/pkgconfig/diffbot_slam.pc

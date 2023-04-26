@@ -1,0 +1,43 @@
+Not searching for unused variables given on the command line.
+[36m--[0m The C compiler identification is GNU 7.5.0
+[36m--[0m The CXX compiler identification is GNU 7.5.0
+[36m--[0m Check for working C compiler: /usr/bin/cc
+[36m--[0m Check for working C compiler: /usr/bin/cc -- works
+[36m--[0m Detecting C compiler ABI info
+[36m--[0m Detecting C compiler ABI info - done
+[36m--[0m Detecting C compile features
+[36m--[0m Detecting C compile features - done
+[36m--[0m Check for working CXX compiler: /usr/bin/c++
+[36m--[0m Check for working CXX compiler: /usr/bin/c++ -- works
+[36m--[0m Detecting CXX compiler ABI info
+[36m--[0m Detecting CXX compiler ABI info - done
+[36m--[0m Detecting CXX compile features
+[36m--[0m Detecting CXX compile features - done
+[36m--[0m Setting build type to 'Release' as none was specified.
+[36m--[0m Found Eigen: '/usr/local/include/eigen3'
+[36m--[0m libpng Found and Enabled
+[36m--[0m libjpeg Found and Enabled
+[36m--[0m libtiff Found and Enabled
+[36m--[0m liblz4 Found and Enabled
+[36m--[0m Found Eigen: '/usr/local/include/eigen3'
+[36m--[0m libdc1394 Found and Enabled
+[36m--[0m V4L Found and Enabled
+[36m--[0m Performing Test HAVE_FFMPEG_MAX_ANALYZE_DURATION
+[36m--[0m Performing Test HAVE_FFMPEG_MAX_ANALYZE_DURATION - Success
+[36m--[0m Performing Test HAVE_FFMPEG_AVFORMAT_ALLOC_OUTPUT_CONTEXT2
+[36m--[0m Performing Test HAVE_FFMPEG_AVFORMAT_ALLOC_OUTPUT_CONTEXT2 - Success
+[36m--[0m Performing Test HAVE_FFMPEG_AVPIXELFORMAT
+[36m--[0m Performing Test HAVE_FFMPEG_AVPIXELFORMAT - Success
+[36m--[0m ffmpeg Found and Enabled: /usr/include/aarch64-linux-gnu;/usr/include/aarch64-linux-gnu;/usr/include/aarch64-linux-gnu;/usr/include/aarch64-linux-gnu;/usr/include/aarch64-linux-gnu
+[36m--[0m Found PkgConfig: /usr/bin/pkg-config (found version "0.29.1")
+[36m--[0m OpenNI Found and Enabled
+[36m--[0m OpenNI2 Found and Enabled
+[36m--[0m Checking for module 'wayland-egl'
+[36m--[0m   Found wayland-egl, version 18.1.0
+[36m--[0m Checking for module 'wayland-cursor'
+[36m--[0m   Found wayland-cursor, version 1.16.0
+[36m--[0m Checking for module 'xkbcommon'
+[36m--[0m   Found xkbcommon, version 0.8.2
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /home/airbud/catkin_ws/build/pangolin

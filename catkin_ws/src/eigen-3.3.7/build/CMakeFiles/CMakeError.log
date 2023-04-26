@@ -1,0 +1,286 @@
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_Wshorten64to32 failed with the following output:
+Change Dir: /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3d0d8/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3d0d8.dir/build.make CMakeFiles/cmTC_3d0d8.dir/build
+make[1]: Entering directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3d0d8.dir/src.cxx.o
+/usr/bin/c++    -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -DCOMPILER_SUPPORT_Wshorten64to32 -Werror   -Wshorten-64-to-32 -o CMakeFiles/cmTC_3d0d8.dir/src.cxx.o -c /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wshorten-64-to-32'
+CMakeFiles/cmTC_3d0d8.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_3d0d8.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_3d0d8.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_3d0d8/fast' failed
+make: *** [cmTC_3d0d8/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_Wenumconversion failed with the following output:
+Change Dir: /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_47687/fast"
+/usr/bin/make -f CMakeFiles/cmTC_47687.dir/build.make CMakeFiles/cmTC_47687.dir/build
+make[1]: Entering directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_47687.dir/src.cxx.o
+/usr/bin/c++    -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wlogical-op -DCOMPILER_SUPPORT_Wenumconversion -Werror   -Wenum-conversion -o CMakeFiles/cmTC_47687.dir/src.cxx.o -c /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wenum-conversion'; did you mean '-Wno-conversion'?
+CMakeFiles/cmTC_47687.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_47687.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_47687.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_47687/fast' failed
+make: *** [cmTC_47687/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_Wcpp11extensions failed with the following output:
+Change Dir: /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_917b0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_917b0.dir/build.make CMakeFiles/cmTC_917b0.dir/build
+make[1]: Entering directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_917b0.dir/src.cxx.o
+/usr/bin/c++    -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wlogical-op -DCOMPILER_SUPPORT_Wcpp11extensions -Werror   -Wc++11-extensions -o CMakeFiles/cmTC_917b0.dir/src.cxx.o -c /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wc++11-extensions'; did you mean '-fms-extensions'?
+CMakeFiles/cmTC_917b0.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_917b0.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_917b0.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_917b0/fast' failed
+make: *** [cmTC_917b0/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_wd981 failed with the following output:
+Change Dir: /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_84b37/fast"
+/usr/bin/make -f CMakeFiles/cmTC_84b37.dir/build.make CMakeFiles/cmTC_84b37.dir/build
+make[1]: Entering directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_84b37.dir/src.cxx.o
+/usr/bin/c++    -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wlogical-op -Wdouble-promotion -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_wd981 -Werror   -wd981 -o CMakeFiles/cmTC_84b37.dir/src.cxx.o -c /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-wd981'
+CMakeFiles/cmTC_84b37.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_84b37.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_84b37.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_84b37/fast' failed
+make: *** [cmTC_84b37/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_wd2304 failed with the following output:
+Change Dir: /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_1d823/fast"
+/usr/bin/make -f CMakeFiles/cmTC_1d823.dir/build.make CMakeFiles/cmTC_1d823.dir/build
+make[1]: Entering directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_1d823.dir/src.cxx.o
+/usr/bin/c++    -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wlogical-op -Wdouble-promotion -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_wd2304 -Werror   -wd2304 -o CMakeFiles/cmTC_1d823.dir/src.cxx.o -c /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-wd2304'
+CMakeFiles/cmTC_1d823.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_1d823.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_1d823.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_1d823/fast' failed
+make: *** [cmTC_1d823/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_STRICTANSI failed with the following output:
+Change Dir: /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_2deee/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2deee.dir/build.make CMakeFiles/cmTC_2deee.dir/build
+make[1]: Entering directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2deee.dir/src.cxx.o
+/usr/bin/c++    -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wlogical-op -Wdouble-promotion -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_STRICTANSI -Werror   -strict-ansi -o CMakeFiles/cmTC_2deee.dir/src.cxx.o -c /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-strict-ansi'; did you mean '-fstrict-enums'?
+CMakeFiles/cmTC_2deee.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_2deee.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_2deee.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_2deee/fast' failed
+make: *** [cmTC_2deee/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C++ SOURCE FILE Test COMPILER_SUPPORT_Qunusedarguments failed with the following output:
+Change Dir: /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d34c6/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d34c6.dir/build.make CMakeFiles/cmTC_d34c6.dir/build
+make[1]: Entering directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_d34c6.dir/src.cxx.o
+/usr/bin/c++    -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wlogical-op -Wdouble-promotion -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -DCOMPILER_SUPPORT_Qunusedarguments -Werror   -Qunused-arguments -o CMakeFiles/cmTC_d34c6.dir/src.cxx.o -c /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Qunused-arguments'; did you mean '-Wunused-parameter'?
+CMakeFiles/cmTC_d34c6.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_d34c6.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_d34c6.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_d34c6/fast' failed
+make: *** [cmTC_d34c6/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Determining if the Q_WS_WIN exist failed with the following output:
+Change Dir: /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8458a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8458a.dir/build.make CMakeFiles/cmTC_8458a.dir/build
+make[1]: Entering directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_8458a.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++   -I/usr/include/qt4  -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wlogical-op -Wdouble-promotion -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -ansi -O1 -g1    -o CMakeFiles/cmTC_8458a.dir/CheckSymbolExists.cxx.o -c /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_WIN’ was not declared in this scope
+   return ((int*)(&Q_WS_WIN))[argc];
+                   ^~~~~~~~
+/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: note: suggested alternative: ‘Q_WS_X11’
+   return ((int*)(&Q_WS_WIN))[argc];
+                   ^~~~~~~~
+                   Q_WS_X11
+CMakeFiles/cmTC_8458a.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_8458a.dir/CheckSymbolExists.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_8458a.dir/CheckSymbolExists.cxx.o] Error 1
+make[1]: Leaving directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_8458a/fast' failed
+make: *** [cmTC_8458a/fast] Error 2
+
+File /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_WIN
+  return ((int*)(&Q_WS_WIN))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the Q_WS_QWS exist failed with the following output:
+Change Dir: /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5ef06/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5ef06.dir/build.make CMakeFiles/cmTC_5ef06.dir/build
+make[1]: Entering directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_5ef06.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++   -I/usr/include/qt4  -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wlogical-op -Wdouble-promotion -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -ansi -O1 -g1    -o CMakeFiles/cmTC_5ef06.dir/CheckSymbolExists.cxx.o -c /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_QWS’ was not declared in this scope
+   return ((int*)(&Q_WS_QWS))[argc];
+                   ^~~~~~~~
+/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: note: suggested alternative: ‘Q_WS_X11’
+   return ((int*)(&Q_WS_QWS))[argc];
+                   ^~~~~~~~
+                   Q_WS_X11
+CMakeFiles/cmTC_5ef06.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_5ef06.dir/CheckSymbolExists.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_5ef06.dir/CheckSymbolExists.cxx.o] Error 1
+make[1]: Leaving directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_5ef06/fast' failed
+make: *** [cmTC_5ef06/fast] Error 2
+
+File /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_QWS
+  return ((int*)(&Q_WS_QWS))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the Q_WS_MAC exist failed with the following output:
+Change Dir: /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9ca0e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9ca0e.dir/build.make CMakeFiles/cmTC_9ca0e.dir/build
+make[1]: Entering directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_9ca0e.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++   -I/usr/include/qt4  -std=c++03 -pedantic -Wall -Wextra -Wundef -Wcast-align -Wchar-subscripts -Wnon-virtual-dtor -Wunused-local-typedefs -Wpointer-arith -Wwrite-strings -Wformat-security -Wlogical-op -Wdouble-promotion -Wno-psabi -Wno-variadic-macros -Wno-long-long -fno-check-new -fno-common -fstrict-aliasing -ansi -O1 -g1    -o CMakeFiles/cmTC_9ca0e.dir/CheckSymbolExists.cxx.o -c /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_MAC’ was not declared in this scope
+   return ((int*)(&Q_WS_MAC))[argc];
+                   ^~~~~~~~
+/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: note: suggested alternative: ‘Q_WS_X11’
+   return ((int*)(&Q_WS_MAC))[argc];
+                   ^~~~~~~~
+                   Q_WS_X11
+CMakeFiles/cmTC_9ca0e.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_9ca0e.dir/CheckSymbolExists.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_9ca0e.dir/CheckSymbolExists.cxx.o] Error 1
+make[1]: Leaving directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_9ca0e/fast' failed
+make: *** [cmTC_9ca0e/fast] Error 2
+
+File /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_MAC
+  return ((int*)(&Q_WS_MAC))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_2f5b6/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2f5b6.dir/build.make CMakeFiles/cmTC_2f5b6.dir/build
+make[1]: Entering directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2f5b6.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_2f5b6.dir/CheckSymbolExists.c.o   -c /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_2f5b6
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2f5b6.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_2f5b6.dir/CheckSymbolExists.c.o  -o cmTC_2f5b6 
+CMakeFiles/cmTC_2f5b6.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x14): undefined reference to `pthread_create'
+CheckSymbolExists.c:(.text+0x18): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_2f5b6.dir/build.make:97: recipe for target 'cmTC_2f5b6' failed
+make[1]: *** [cmTC_2f5b6] Error 1
+make[1]: Leaving directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_2f5b6/fast' failed
+make: *** [cmTC_2f5b6/fast] Error 2
+
+File /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_408e4/fast"
+/usr/bin/make -f CMakeFiles/cmTC_408e4.dir/build.make CMakeFiles/cmTC_408e4.dir/build
+make[1]: Entering directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_408e4.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_408e4.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.10/Modules/CheckFunctionExists.c
+Linking C executable cmTC_408e4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_408e4.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_408e4.dir/CheckFunctionExists.c.o  -o cmTC_408e4 -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_408e4.dir/build.make:97: recipe for target 'cmTC_408e4' failed
+make[1]: *** [cmTC_408e4] Error 1
+make[1]: Leaving directory '/home/airbud/catkin_ws/src/eigen-3.3.7/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_408e4/fast' failed
+make: *** [cmTC_408e4/fast] Error 2
+
+

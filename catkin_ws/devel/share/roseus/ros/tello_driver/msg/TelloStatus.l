@@ -1,0 +1,1 @@
+/home/airbud/catkin_ws/devel/.private/tello_driver/share/roseus/ros/tello_driver/msg/TelloStatus.l

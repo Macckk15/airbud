@@ -1,0 +1,4 @@
+Symlinking /home/airbud/catkin_ws/devel/lib/librviz_imu_plugin.so
+Symlinking /home/airbud/catkin_ws/devel/lib/pkgconfig/rviz_imu_plugin.pc
+Symlinking /home/airbud/catkin_ws/devel/share/rviz_imu_plugin/cmake/rviz_imu_pluginConfig-version.cmake
+Symlinking /home/airbud/catkin_ws/devel/share/rviz_imu_plugin/cmake/rviz_imu_pluginConfig.cmake

@@ -1,0 +1,15 @@
+[  0%] Built target _hector_mapping_generate_messages_check_deps_HectorIterData
+[  0%] Built target _hector_mapping_generate_messages_check_deps_ResetMapping
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target _hector_mapping_generate_messages_check_deps_HectorDebugInfo
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[ 13%] Built target hector_mapping_generate_messages_cpp
+[ 27%] Built target hector_mapping_generate_messages_nodejs
+[ 50%] Built target hector_mapping_generate_messages_py
+[ 63%] Built target hector_mapping_generate_messages_lisp
+[ 81%] Built target hector_mapping_generate_messages_eus
+[ 81%] Built target hector_mapping_generate_messages
+[100%] Built target hector_mapping

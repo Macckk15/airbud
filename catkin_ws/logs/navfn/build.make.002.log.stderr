@@ -1,0 +1,5 @@
+CMakeFiles/navfn.dir/src/navfn.cpp.o: file not recognized: File truncated
+collect2: error: ld returned 1 exit status
+make[2]: *** [/home/airbud/catkin_ws/devel/.private/navfn/lib/libnavfn.so] Error 1
+make[1]: *** [CMakeFiles/navfn.dir/all] Error 2
+make: *** [all] Error 2

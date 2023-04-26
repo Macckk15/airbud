@@ -1,0 +1,44 @@
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target video_publisher[0m
+[35m[1mScanning dependencies of target image_depth_publisher[0m
+[35m[1mScanning dependencies of target image_publisher[0m
+[ 12%] [32mBuilding CXX object src/CMakeFiles/image_publisher.dir/home/airbud/catkin_ws/src/openvslam/example/util/image_util.cc.o[0m
+[ 25%] [32mBuilding CXX object src/CMakeFiles/image_depth_publisher.dir/image_depth_publisher.cc.o[0m
+[ 37%] [32mBuilding CXX object src/CMakeFiles/video_publisher.dir/video_publisher.cc.o[0m
+[ 50%] [32mBuilding CXX object src/CMakeFiles/image_publisher.dir/image_publisher.cc.o[0m
+[ 62%] [32mBuilding CXX object src/CMakeFiles/image_depth_publisher.dir/home/airbud/catkin_ws/src/openvslam/example/util/image_util.cc.o[0m
+[ 75%] [32m[1mLinking CXX executable /home/airbud/catkin_ws/devel/.private/publisher/lib/publisher/image[0m
+[ 87%] [32m[1mLinking CXX executable /home/airbud/catkin_ws/devel/.private/publisher/lib/publisher/image_and_depth[0m
+[100%] [32m[1mLinking CXX executable /home/airbud/catkin_ws/devel/.private/publisher/lib/publisher/video[0m
+/usr/bin/ld: warning: libopencv_imgcodecs.so.3.2, needed by /opt/ros/melodic/lib/libcv_bridge.so, may conflict with libopencv_imgcodecs.so.4.5
+/usr/bin/ld: warning: libopencv_core.so.4.5, needed by /usr/local/lib/libopencv_imgcodecs.so.4.5.3, may conflict with libopencv_core.so.3.2
+/usr/bin/ld: warning: libopencv_imgcodecs.so.3.2, needed by /opt/ros/melodic/lib/libcv_bridge.so, may conflict with libopencv_imgcodecs.so.4.5
+/usr/bin/ld: warning: libopencv_core.so.4.5, needed by /usr/local/lib/libopencv_imgcodecs.so.4.5.3, may conflict with libopencv_core.so.3.2
+[100%] Built target image_depth_publisher
+[100%] Built target image_publisher
+/usr/bin/ld: warning: libopencv_core.so.4.5, needed by /usr/local/lib/libopencv_videoio.so.4.5.3, may conflict with libopencv_core.so.3.2
+[100%] Built target video_publisher

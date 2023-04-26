@@ -1,0 +1,4 @@
+Symlinking /home/airbud/catkin_ws/devel/lib/librotate_recovery.so
+Symlinking /home/airbud/catkin_ws/devel/lib/pkgconfig/rotate_recovery.pc
+Symlinking /home/airbud/catkin_ws/devel/share/rotate_recovery/cmake/rotate_recoveryConfig-version.cmake
+Symlinking /home/airbud/catkin_ws/devel/share/rotate_recovery/cmake/rotate_recoveryConfig.cmake

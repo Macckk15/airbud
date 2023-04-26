@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target ekf_odom_pub[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/ekf_odom_pub.dir/src/ekf_odom_pub.cpp.o[0m
+[ 50%] [32m[1mLinking CXX executable /home/airbud/catkin_ws/devel/.private/localization_data_pub/lib/localization_data_pub/ekf_odom_pub[0m
+[ 50%] Built target ekf_odom_pub
+[35m[1mScanning dependencies of target rviz_click_to_2d[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/rviz_click_to_2d.dir/src/rviz_click_to_2d.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/airbud/catkin_ws/devel/.private/localization_data_pub/lib/localization_data_pub/rviz_click_to_2d[0m
+[100%] Built target rviz_click_to_2d

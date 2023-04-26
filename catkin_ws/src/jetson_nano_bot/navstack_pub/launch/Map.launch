@@ -1,0 +1,18 @@
+<launch>
+  <arg name="open_rviz" default="true"/>
+  <!-- Transformation Configuration ... Setting Up the Relationships Between Coordinate Frames --> 
+  <node pkg="tf" type="static_transform_publisher" name="base_link_to_laser" args="0.00 0.0539 0.00 0 0 0 base_link laser 40" />
+  <node pkg="tf" type="static_transform_publisher" name="imu_broadcaster" args="-0.0508 -0.0445 0.0762 0 0 0 base_link imu 40" />
+  <node pkg="tf" type="static_transform_publisher" name="base_link_broadcaster" args="0 0 0.1143 0 0 0 base_footprint base_link 40" />
+  <!-- odom to base_footprint transform will be provided by the robot_pose_ekf node -->
+  <!-- map to odom will be provided by the AMCL -->
+  <node pkg="tf" type="static_transform_publisher" name="map_to_odom" args="0 0 0 0 0 0 map odom 40" />
+
+<!-- Map File -->
+  <arg name="map_file" default="$(find navstack_pub)/maps/map.yaml"/>
+	
+  <!-- Map Server -->
+  <!-- Publish: /map, /map_metadata -->
+  <node pkg="map_server" name="map_server" type="map_server" args="$(arg map_file)" />
+
+</launch>

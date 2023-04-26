@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/airbud/catkin_ws/devel/.private/nav_core/setup.sh
