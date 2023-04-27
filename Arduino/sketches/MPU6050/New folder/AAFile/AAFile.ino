@@ -1,14 +1,4 @@
-/*
- * Author: Automatic Addison
- * Website: https://automaticaddison.com
- * Description: ROS node that publishes the accumulated ticks for each wheel
- * (/right_ticks and /left_ticks topics) at regular intervals using the 
- * built-in encoder (forward = positive; reverse = negative). 
- * The node also subscribes to linear & angular velocity commands published on 
- * the /cmd_vel topic to drive the robot accordingly.
- * Reference: Practical Robotics in C++ book (ISBN-10 : 9389423465)
- */
- 
+
 #include <Adafruit_MPU6050.h>
 #include <Adafruit_Sensor.h>
 #include <Wire.h>
