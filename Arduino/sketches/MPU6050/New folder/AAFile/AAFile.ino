@@ -1,4 +1,5 @@
-
+//Original Creator: Automatic Addison
+//Modifier: Caleb Stewart
 #include <Adafruit_MPU6050.h>
 #include <Adafruit_Sensor.h>
 #include <Wire.h>
@@ -578,9 +579,11 @@ void set_pwm_values() {
   Distance = XDistance * TICKS_PER_METER;  
   Ticks = Distance - CurrentTicks;
 
+/*
   Serial.println("Current Ticks Left is: ");
   Serial.println(Ticks);
   Serial.println("");
+  */
 
   /*
   Yaw = GoalYaw - CurrYaw;
@@ -618,12 +621,14 @@ void set_pwm_values() {
     analogWrite(enA, 0); 
     analogWrite(enB, 0);
   }
+  /*
   Serial.print("PWM LEFT = ");
   Serial.println(pwmLeftOut); 
   Serial.println("");
   Serial.print("PWM RIGHT = ");
   Serial.println(pwmRightOut);
   Serial.println("");
+  */
 }
  
 // Set up ROS subscriber to the velocity command
@@ -812,6 +817,9 @@ void loop() {
   String GZ = String(ZGyro);
   String Tmp = String(Temp);
 
+  Serial.print("The X Acceleration is");
+  Serial.print(XAccel);
+  Serial.println("");
   String data = "A" + AX + "B" + AY + "C" + AZ + "D" + GX + "E" + GY + "F" + GZ + "G" ;
   // Serial.println(data);
   int length = data.indexOf("G") + 2;

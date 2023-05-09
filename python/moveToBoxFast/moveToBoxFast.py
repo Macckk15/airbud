@@ -2,7 +2,7 @@ import cv2
 import torch
 import numpy as np
 import qr_funcs as qr
-from tellopy import Tello
+from djitellopy import Tello
 import time
 
 import math
@@ -67,10 +67,11 @@ mean_tol = 10
 yolo_path = r'/home/airbud/catkin_ws/src/jetson_nano_bot/navstack_pub/src/yolo_top/yolov5'
 weight_path = r'/home/airbud/Desktop/4-10Backup/python/moveToBoxFast/best.pt'
 
-model = torch.hub.load(yolo_path, 'custom', path=weight_path, source='local')
-
 tello = Tello()
 tello.connect()
+
+model = torch.hub.load(yolo_path, 'custom', path=weight_path, source='local')
+
 tello.takeoff()
 time.sleep(1)
 tello.move_up(40)
@@ -134,7 +135,7 @@ while(box_count != 7):
     image = tello.get_frame_read().frame
     clean = image
     results = model(image)
-    labels, cord_thres = results.xyxyn[0][:, -1].numpy(), results.xyxyn[0][:, :-1].numpy()
+    labels, cord_thres = results.xyxyn[0][:, -1].to("cpu").numpy(), results.xyxyn[0][:, :-1].to("cpu").numpy()
 
     if (len(cord_thres) > 0):
 
