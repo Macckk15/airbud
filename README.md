@@ -1,8 +1,8 @@
 # airbud
 This github is a project done by Team 61 for the IEEE Region 5 Robot Competition. The project consists of a ground robot and a drone collaborating to maneuver around an obstacle course.
-The ground robot needed to be able to read the red reflective tape on the entrance of a box and determine the distance to that respective box to move inside of it
+The ground robot needed to be able to read the red reflective tape on the entrance of a box and determine the distance to that respective box to move inside of it.
 Next, it needed to scan the QR code on the ceiling of the box to determine the next box to drive inside of.
-The locations of these boxes are determined by the drone scanning the QR codes on the tops of the boxes and sending the location back to the ground robot
+The locations of these boxes are determined by the drone scanning the QR codes on the tops of the boxes and sending the location back to the ground robot.
 
 This project was created in order to be run autonomously with the press of a button on the ground robot and drone.
 
