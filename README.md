@@ -30,7 +30,8 @@ The main launch file has a lot of parts in it, but I will break it down by secti
 6. The RP Lidar Node
 7. The python files
 8. The Map loading files
-9. Move base node
+9. The AMCL Node (Author: Brian P. Gerkey, contradict@gmail.com)
+10. Move base node
 
 
 The transform publishers consists of: 
@@ -72,4 +73,20 @@ The main python files consist of:
 - The file that parses the imu data sent by the arduino and publishes it as an Imu message type (Original creator: Ahmad Said, https://atadiat.com/en/e-ros-imu-and-arduino-how-to-send-to-ros/)
 - The file that uses the LiDAR scans to calculate the distance from it's current position to the box in front of it and publishes that message
 - The file that uses the camera to detect the entrance of the box and send that message as a string
-- 
+- The file that that sets the original position of the ground robot as a string
+- The file that uses the distance calculated by the LiDAR after the entrace message is sent to send a goal message for the ground robot to move to
+- The file that launches the drone in the air before the other commands are sent
+
+The map loading files consist of:
+- The Node that loads the map file to the ground robot
+- The map server node that launches the map
+
+The AMCL Node consists of:
+- The node that uses the LiDAR scans in order to localize the ground robot in the map and publish the transform from the odometry to the map frame
+- for help with parameters, look here: (http://wiki.ros.org/amcl)
+
+The move base node consists of:
+- The node that handles the sending of the planning, obstacle avoidance, and the movement to the ground robot
+- For help with parameters, look here: (http://wiki.ros.org/move_base)
+- You can change these to use any local planner and global planner you would like to use
+
