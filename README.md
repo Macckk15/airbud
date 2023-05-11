@@ -27,7 +27,7 @@ The main launch file has a lot of parts in it, but I will break it down by secti
 3. ekf_data_pub node (Original Creator: Automatic Addison)
 4. The robot_pose_ekf Node (Author: Wim Meeussen)
 5. rviz_click_to_2d (Original Creator: Automatic Addison)
-6. The RP Lidar Node
+6. The RP Lidar Node (Original Creator: Slamtec)
 7. The python files
 8. The Map loading files
 9. The AMCL Node (Author: Brian P. Gerkey, contradict@gmail.com)
